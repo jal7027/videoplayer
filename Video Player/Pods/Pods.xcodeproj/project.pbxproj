@@ -7,67 +7,71 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		007B27A4AEEE6BC9759A3640CC18FA62 /* MLPauseButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 02FE607A8390C8F3AD58DF17634A3EBB /* MLPauseButton@2x.png */; };
-		08DC4A365441CB8BC735BD184C214F06 /* MLIncreaseVolume.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A96EBDFCE9D464EB2D9876D7073D998 /* MLIncreaseVolume.png */; };
-		0D7FF9BF1F180CB43ADDC6576F074B3E /* BarConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32D3A410375F910EB6DBF45BC22C52A4 /* BarConfig.swift */; };
-		0DCAA22E3040D12459D3F6D738D55656 /* MLPauseButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 93D7670852D9C976A58CA6571C017656 /* MLPauseButton@3x.png */; };
-		11E0C37FABA43B8B0F1C65B7A19E4B34 /* MLReduceVolume@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 82E56A9266FB20642413ACA688A538FE /* MLReduceVolume@3x.png */; };
-		14774A26349E8DA1004CA47340659F1D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC2AC58214E9F09A8E1A18A61819714B /* Foundation.framework */; };
-		152F7AC0A034389627DE874743E8272E /* MLReduceVolume.png in Resources */ = {isa = PBXBuildFile; fileRef = F02EFD18FF0962FC35FCA1E878B2464A /* MLReduceVolume.png */; };
-		1559D10459AED3780E0D1C1C43B03957 /* MobilePlayerOverlayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47D1C6DC412C7990A210838AB398C048 /* MobilePlayerOverlayViewController.swift */; };
-		220D2335ECE3041F3BC05AB23A68E02B /* Label.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E004E4186A3AA16753E41831245BD9A /* Label.swift */; };
-		23D1247ACA5979FEA5BE702ED6B1C5C7 /* MLPlayButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DC048454357FB97C9BC101E414E8E5EE /* MLPlayButton@3x.png */; };
-		2DEACDD995D946CB8E9A323BE8E544B7 /* StateHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A189B011B92353EF9B4C0CED343D98 /* StateHelper.swift */; };
-		30E4AD121CEC61E44B4D9BE1123EBBCC /* MLCloseButton.png in Resources */ = {isa = PBXBuildFile; fileRef = B9BF6F8C509B4D3BD53226109C7DDC44 /* MLCloseButton.png */; };
-		3814C29A29CC6A57A942E49700FD617B /* MobilePlayer.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 31DD608B058D39181A2EF44410D339FF /* MobilePlayer.bundle */; };
-		395946BE2DDF11F1A3D57746FA012CC7 /* Pods-Video Player-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A7F7556C1906A05AC4734F45EE8A1387 /* Pods-Video Player-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		007B27A4AEEE6BC9759A3640CC18FA62 /* MLPauseButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 95A6ADBCFCBFE628EA62BE990C887A34 /* MLPauseButton@2x.png */; };
+		05427030EC54F7E2E169A9C933D0D203 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6920E05A6F4DDDD074E4D41FEB8E6D0A /* SwiftyJSON.swift */; };
+		08DC4A365441CB8BC735BD184C214F06 /* MLIncreaseVolume.png in Resources */ = {isa = PBXBuildFile; fileRef = 08A21A11D6AC4641FAAF96AED9E02679 /* MLIncreaseVolume.png */; };
+		0D7FF9BF1F180CB43ADDC6576F074B3E /* BarConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC9BE96B95FA685C6D513E85F0E6DA01 /* BarConfig.swift */; };
+		0DCAA22E3040D12459D3F6D738D55656 /* MLPauseButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 68D0E9278ED41DF458F98BB1B8B3758F /* MLPauseButton@3x.png */; };
+		11E0C37FABA43B8B0F1C65B7A19E4B34 /* MLReduceVolume@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AAE24CB2B20BF94FF1F2C0AC2AEDCA33 /* MLReduceVolume@3x.png */; };
+		152F7AC0A034389627DE874743E8272E /* MLReduceVolume.png in Resources */ = {isa = PBXBuildFile; fileRef = CED49394DF1A3C61BD1716DA247DBD34 /* MLReduceVolume.png */; };
+		1559D10459AED3780E0D1C1C43B03957 /* MobilePlayerOverlayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E3B490A22CB69E9B3BE062430CEFF99 /* MobilePlayerOverlayViewController.swift */; };
+		1CDE1D330A9E03F8EB03B63BBA3DFE1A /* SwiftyJSON-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4673448A356E2FFC3B1AC926C4F0C3EA /* SwiftyJSON-dummy.m */; };
+		220D2335ECE3041F3BC05AB23A68E02B /* Label.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81381746FF84F71436384090E10522F8 /* Label.swift */; };
+		23D1247ACA5979FEA5BE702ED6B1C5C7 /* MLPlayButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D7E95D376D7114CEB51A22B5E5A3FD32 /* MLPlayButton@3x.png */; };
+		2A06B84C4378A442A608987F5CC2756A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC2AC58214E9F09A8E1A18A61819714B /* Foundation.framework */; };
+		2DEACDD995D946CB8E9A323BE8E544B7 /* StateHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01F0B0098E7661E686051AB6BE600E19 /* StateHelper.swift */; };
+		30E4AD121CEC61E44B4D9BE1123EBBCC /* MLCloseButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 45B87EBCB7F5EE9C95FBBF4448551C26 /* MLCloseButton.png */; };
+		3814C29A29CC6A57A942E49700FD617B /* MobilePlayer.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B62F62E25291D9AA7FAD969D480C94A1 /* MobilePlayer.bundle */; };
 		531F4B1EF676EB79728546892F39A54A /* Pods-Video PlayerUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 41C6D1672AE827ACDBCA87D9FE70A2A7 /* Pods-Video PlayerUITests-dummy.m */; };
-		55B4EB5A4CCA7FC1944DF7B0CB18981A /* MLShareButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CC0BAA8C6A9FC5D0BCA88E79C72B8C4 /* MLShareButton@3x.png */; };
-		5B81A6B7AE4099D912A64AF757958174 /* MLPlayButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 79F6E23859286B944E294E25D26032A3 /* MLPlayButton@2x.png */; };
-		5FE099573E73EE2262D1967D7544293E /* MLPlayButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 9D16EA45788237859BF176C7ADF86B54 /* MLPlayButton.png */; };
-		6001C8038440B3F300BB960F52DDC516 /* ButtonConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A9B65B9C431A1F02ACF12C64EDD98E /* ButtonConfig.swift */; };
-		614F9695EEEA685C2CA3B8C72A55FBEA /* MLVolumeButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 46ECD94DB947FB192DE593818A5E8B93 /* MLVolumeButton@3x.png */; };
+		55B4EB5A4CCA7FC1944DF7B0CB18981A /* MLShareButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4700435892F2F5637C91D2B00F99469 /* MLShareButton@3x.png */; };
+		5B81A6B7AE4099D912A64AF757958174 /* MLPlayButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E431D83B1C2170F664157B7F151AAED /* MLPlayButton@2x.png */; };
+		5E58DBCB83406F8A78B2C696A28C52A8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC2AC58214E9F09A8E1A18A61819714B /* Foundation.framework */; };
+		5FE099573E73EE2262D1967D7544293E /* MLPlayButton.png in Resources */ = {isa = PBXBuildFile; fileRef = B625F016B56D826AA6070256B1AEA26A /* MLPlayButton.png */; };
+		6001C8038440B3F300BB960F52DDC516 /* ButtonConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D69B9E7368E4A5A95D6E02365D8FDEF /* ButtonConfig.swift */; };
+		614F9695EEEA685C2CA3B8C72A55FBEA /* MLVolumeButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DEBE9CCB914531594C1C17065BA4B51E /* MLVolumeButton@3x.png */; };
 		656FC8301C582BFE6CCB8776F247A430 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D7DBE160FECE9BD9518DBE0281F491B /* MediaPlayer.framework */; };
-		675CEDDF4173D2C8E27D5F525378399F /* WatermarkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76C727F7FB1AA1D2C3A240440DFC16CC /* WatermarkViewController.swift */; };
+		663E60925A6A120DB596141687466F50 /* SwiftyJSON-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E443951239F47388C3F86679E6200235 /* SwiftyJSON-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		675CEDDF4173D2C8E27D5F525378399F /* WatermarkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5FCCF70B524ECF33CF4F4F9D8A6F315 /* WatermarkViewController.swift */; };
 		706855942A8F64C339CEE5276F0EB726 /* Pods-Video PlayerTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2A04F24CE0ABF0476F8EE1B2FDE72903 /* Pods-Video PlayerTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7301A159197800409EAD199123907055 /* ToggleButtonConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7913E695AE47F17B4934BEA079B7F19 /* ToggleButtonConfig.swift */; };
-		756DB82D966AA27D52C59A2ED4A7AD30 /* MobilePlayerControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E72F86C36CC2798EB20ABABDFAF3E1E5 /* MobilePlayerControlsView.swift */; };
+		7301A159197800409EAD199123907055 /* ToggleButtonConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DA5CC70A4EBCE2EFAD5FD10F0A188C2 /* ToggleButtonConfig.swift */; };
+		756DB82D966AA27D52C59A2ED4A7AD30 /* MobilePlayerControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1892E9DC5C4256D18E641D0AA1FD481 /* MobilePlayerControlsView.swift */; };
 		75A8819656A1E85DFABE5E079FF17AA4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1140742F4248B4B759C9270770B83DA2 /* UIKit.framework */; };
 		77E809B9B2C9E52ACFFEF11EF26F98EB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC2AC58214E9F09A8E1A18A61819714B /* Foundation.framework */; };
-		7880DAD191DA3950F35F01B3AC3CDDC3 /* LabelConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69C102E9C818982D04DA2F7E39C07E74 /* LabelConfig.swift */; };
-		7C5CB5A37FB77C7604599A8E3E9FB25D /* Bar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 504DC3CD81831E91CD2C1FA1B517BB1B /* Bar.swift */; };
-		7DA9BD9B9312448D650E2E810D292D04 /* Slider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 486BD0682EECA5B572DE9F5A51890F53 /* Slider.swift */; };
-		81430B85C79211442FC7577322264C1F /* ClosureSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4A11E00F0E15206029DAFA7F3AC36AC /* ClosureSupport.swift */; };
-		838BEDFE8D7F9E25C30F1339FA180C2F /* MobilePlayer-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BC21BD4BF4CBDD19137394BFFF41DF3C /* MobilePlayer-dummy.m */; };
-		92A20A89B19C5ADF6B46D785F0054D36 /* MLIncreaseVolume@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B1727A39B4402FD9A219C73B0FFDBA1 /* MLIncreaseVolume@3x.png */; };
+		7880DAD191DA3950F35F01B3AC3CDDC3 /* LabelConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00E932FBA22903F84790FCBBA357007 /* LabelConfig.swift */; };
+		7C5CB5A37FB77C7604599A8E3E9FB25D /* Bar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A2FBF1CF5D92C6CAFFC405CDBAB63C6 /* Bar.swift */; };
+		7DA9BD9B9312448D650E2E810D292D04 /* Slider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6F2C743F7E9E8A58E6B93C3AA15CEF /* Slider.swift */; };
+		81430B85C79211442FC7577322264C1F /* ClosureSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 675C455A4AF3FF0EED344D68A1167669 /* ClosureSupport.swift */; };
+		838BEDFE8D7F9E25C30F1339FA180C2F /* MobilePlayer-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AA7E4FE16169BF713616D51EBE37AE1A /* MobilePlayer-dummy.m */; };
+		8D01B4B76047CC78F568B4FC941DB800 /* Pods-Video Player-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A7F7556C1906A05AC4734F45EE8A1387 /* Pods-Video Player-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		92A20A89B19C5ADF6B46D785F0054D36 /* MLIncreaseVolume@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B609CA400E89536D4122F00CD0B9579A /* MLIncreaseVolume@3x.png */; };
 		9443F758C8E5C3776D4D0F9EBDE0B035 /* Pods-Video PlayerUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B903BF53D99C70B4AB57E33B6E86E6E9 /* Pods-Video PlayerUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9A00BE733B1ACCBDDEE687EFF2040C53 /* WatermarkConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1DA6AFD6865CC91ED933BF2DC983E34 /* WatermarkConfig.swift */; };
-		A189C3762594F6A978204FDF98D9B456 /* MLIncreaseVolume@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A831165CD69A5D3736DECAB0DC8B8F18 /* MLIncreaseVolume@2x.png */; };
-		A3DB39E74AB9BF19BD22C1872ABCBA91 /* MLVolumeButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CA0629A8FA7C3829F438F75C5DE0509 /* MLVolumeButton@2x.png */; };
-		A4BF55AE4CC9943E36AEA4ADFBE450D3 /* MobilePlayerConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACD6C96A11FBDF0EAA9E57323C4512D /* MobilePlayerConfig.swift */; };
-		A5B05AA34EB02910D4F8A4F730F77FC4 /* ToggleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 539D3EDD2E8DCD4E404323A0A46A6FDA /* ToggleButton.swift */; };
-		A869DE826EB048F74DB2A604DBC07EAF /* UIColor+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = E838ED59B43D9438FA368C6300CB6036 /* UIColor+Hex.swift */; };
-		A8CD32FE9DACA419A446997CFD14940B /* MLPauseButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 86AA61CEF92D1529324342A8A698811E /* MLPauseButton.png */; };
+		9A00BE733B1ACCBDDEE687EFF2040C53 /* WatermarkConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E80092FEC1CB73FB6432C902474E33C /* WatermarkConfig.swift */; };
+		A189C3762594F6A978204FDF98D9B456 /* MLIncreaseVolume@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D40F010B78C6E97DAFB4E501CCD7B9 /* MLIncreaseVolume@2x.png */; };
+		A3DB39E74AB9BF19BD22C1872ABCBA91 /* MLVolumeButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D7FA051A0DBE6DD398010E99EE82CD71 /* MLVolumeButton@2x.png */; };
+		A4BF55AE4CC9943E36AEA4ADFBE450D3 /* MobilePlayerConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 756880BBC36FB56DA2DB775C50A9817F /* MobilePlayerConfig.swift */; };
+		A5B05AA34EB02910D4F8A4F730F77FC4 /* ToggleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E037DDA43877FEAAA5D296DE68515B /* ToggleButton.swift */; };
+		A869DE826EB048F74DB2A604DBC07EAF /* UIColor+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5522C1092F27F03198BE8E4D13FE7B36 /* UIColor+Hex.swift */; };
+		A8CD32FE9DACA419A446997CFD14940B /* MLPauseButton.png in Resources */ = {isa = PBXBuildFile; fileRef = C0742D4B90F921068E5DA34ED92FB989 /* MLPauseButton.png */; };
 		AB23E18FED7B53D93768691E7A0E3864 /* Pods-Video PlayerTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = ED2C36774401C2F5C76709C2C203A3E3 /* Pods-Video PlayerTests-dummy.m */; };
-		B6F0C80306E03E78C914AA2089134815 /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8BE5AB39B1F380459DABCFB9379C05 /* Button.swift */; };
-		B85E4F8BDF598B0E8C576772EA3033F1 /* Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69185BFEDC26A921C098BE3F64A4796 /* Element.swift */; };
-		BA3DBB685A0C88B7B4D93D67EA4974D4 /* ElementConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC8686C7C9EECFD2F6D00C88132E89F /* ElementConfig.swift */; };
+		B6F0C80306E03E78C914AA2089134815 /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DAAF18C38FF7FC2454E0DB90E553458 /* Button.swift */; };
+		B85E4F8BDF598B0E8C576772EA3033F1 /* Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EE36DEEC5C4B04C9252EA80F47F363 /* Element.swift */; };
+		BA3DBB685A0C88B7B4D93D67EA4974D4 /* ElementConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = B700934D8B0D3B996663E41A07BECD16 /* ElementConfig.swift */; };
 		BD96DD9F1A199069534D7BFBD8B4A279 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC2AC58214E9F09A8E1A18A61819714B /* Foundation.framework */; };
-		C0ABF7BBE3C00F3A495C42F97DCE5DBF /* MLShareButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B4CFAD6DA0E00AB77BBA50248CE6CEF /* MLShareButton@2x.png */; };
-		C1AEDCDEE58E37BF4E9514A584E5C521 /* UIImage+CocoaPods.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9A00F988804676158AA54BE1D4533A9 /* UIImage+CocoaPods.swift */; };
-		C8C0768E32A939757E5CBB57D538DCDA /* MLShareButton.png in Resources */ = {isa = PBXBuildFile; fileRef = B848490767AA056FAAAB584905ABA6C9 /* MLShareButton.png */; };
-		CD9D3758FB84DBB4E673EE3C62B87645 /* MLVolumeButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 3BA938BC67B4B454C405FCAB21689CC1 /* MLVolumeButton.png */; };
-		D18DE8F6063D5C690764BA8EE5C1BF72 /* MobilePlayerNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 133510242C7C75EA4705D8FFA3E0C615 /* MobilePlayerNotification.swift */; };
-		D629132067AC65FA26E56C802DAA6089 /* YoutubeParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECA7DC1A7F7E5021E37EE6DD929A91D2 /* YoutubeParser.swift */; };
-		D665EA8C16A17109A26826D7F2698221 /* MLCloseButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AF917428AE6F676B44E22BF0071B41BB /* MLCloseButton@3x.png */; };
-		D738FF32EA670765FBBA5B50179522B2 /* MLCloseButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E3248E8677208608A856301F2ED8323 /* MLCloseButton@2x.png */; };
-		DBE2F5FA216F233745AC6BF90AE8015A /* Pods-Video Player-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3041EB4C9CAEB7CFAAE821D4FA757AEA /* Pods-Video Player-dummy.m */; };
-		DCA67B53ED8997BCB5681731A8359741 /* MLReduceVolume@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B84FB1EE9D7D17A754F32F72AF1FF524 /* MLReduceVolume@2x.png */; };
+		C0ABF7BBE3C00F3A495C42F97DCE5DBF /* MLShareButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 91195FB94A77247B829925D5DCB374E6 /* MLShareButton@2x.png */; };
+		C1AEDCDEE58E37BF4E9514A584E5C521 /* UIImage+CocoaPods.swift in Sources */ = {isa = PBXBuildFile; fileRef = B447B888DD82C98C9EAE4857F5B78E92 /* UIImage+CocoaPods.swift */; };
+		C8C0768E32A939757E5CBB57D538DCDA /* MLShareButton.png in Resources */ = {isa = PBXBuildFile; fileRef = CD2F0EB193B1C16D86DB788287BA98D4 /* MLShareButton.png */; };
+		CD9D3758FB84DBB4E673EE3C62B87645 /* MLVolumeButton.png in Resources */ = {isa = PBXBuildFile; fileRef = B8A4C707049050FC80BF9CF852B997BD /* MLVolumeButton.png */; };
+		D18DE8F6063D5C690764BA8EE5C1BF72 /* MobilePlayerNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E811AD2B90129D709902049B3D26E2 /* MobilePlayerNotification.swift */; };
+		D629132067AC65FA26E56C802DAA6089 /* YoutubeParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47FD18E341F0AC2B2C32EB691910D66D /* YoutubeParser.swift */; };
+		D665EA8C16A17109A26826D7F2698221 /* MLCloseButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9866BD8464A08F15CCE66FA7065B9066 /* MLCloseButton@3x.png */; };
+		D738FF32EA670765FBBA5B50179522B2 /* MLCloseButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C1E509B58CFCB94AB95CAFDA804808AE /* MLCloseButton@2x.png */; };
+		DCA67B53ED8997BCB5681731A8359741 /* MLReduceVolume@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 68E7027EE83F8DED1F23EA6C5D53FB5B /* MLReduceVolume@2x.png */; };
 		DCEFB08A5D2620249B817A47BCA6F6ED /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC2AC58214E9F09A8E1A18A61819714B /* Foundation.framework */; };
-		E711716C26638CDCFC8F010D75EFBEBB /* MobilePlayer-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 645AD0628BDE3B4247F50025607610DB /* MobilePlayer-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EDBB4ABE6A2D80E35C2DBF03CFA71102 /* VolumeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 780C2EDB3BEA247C45622DCDEE20B55D /* VolumeView.swift */; };
-		EDDBE41B239536B6472AB8AD272551C7 /* SliderConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37465E60CFFEBF8D3B2429788A9EBAED /* SliderConfig.swift */; };
-		FB4D81940AD75BBA8EB28E786E935314 /* MobilePlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7679BC8B5766F3EE7F7686AE306225E /* MobilePlayerViewController.swift */; };
+		E711716C26638CDCFC8F010D75EFBEBB /* MobilePlayer-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 493CF6366F65C8DA3EC049D8FB866617 /* MobilePlayer-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EB9056FEFF132161C95DA0E2CEAA20A6 /* Pods-Video Player-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3041EB4C9CAEB7CFAAE821D4FA757AEA /* Pods-Video Player-dummy.m */; };
+		EDBB4ABE6A2D80E35C2DBF03CFA71102 /* VolumeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80946E1DB48F7EDAFA4C386962345CFF /* VolumeView.swift */; };
+		EDDBE41B239536B6472AB8AD272551C7 /* SliderConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F40DF7F395120595D17559540908272 /* SliderConfig.swift */; };
+		FB4D81940AD75BBA8EB28E786E935314 /* MobilePlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53663960E236F65AA599D264624CB4A8 /* MobilePlayerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -78,111 +82,143 @@
 			remoteGlobalIDString = 9C4E70BB64168FAB91408AF7402CE1BF;
 			remoteInfo = "MobilePlayer-MobilePlayer";
 		};
-		D1438B195088C6E6A0140EE8E38B9F3D /* PBXContainerItemProxy */ = {
+		46AEDA73E9F199EA43B9CCDDCDD7C567 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 79E06489A2AB29243B3310B6BADFE034;
 			remoteInfo = MobilePlayer;
 		};
+		4DC6F89AF05B97AB2742C0191D45BE76 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 49D28510FDB704B4DEFED7FA6B8A53DE;
+			remoteInfo = SwiftyJSON;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		01BD8620F768993EF9A47BBCD5CCC764 /* Pods-Video PlayerTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Video PlayerTests-frameworks.sh"; sourceTree = "<group>"; };
-		02FE607A8390C8F3AD58DF17634A3EBB /* MLPauseButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPauseButton@2x.png"; path = "MobilePlayer/Resources/MLPauseButton@2x.png"; sourceTree = "<group>"; };
+		01F0B0098E7661E686051AB6BE600E19 /* StateHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StateHelper.swift; path = MobilePlayer/Helpers/StateHelper.swift; sourceTree = "<group>"; };
+		050B6D9AAF9C3DB004BE62E3BAE067EF /* GoogleInterchangeUtilities.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleInterchangeUtilities.framework; path = Frameworks/GoogleInterchangeUtilities.framework; sourceTree = "<group>"; };
+		08A21A11D6AC4641FAAF96AED9E02679 /* MLIncreaseVolume.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLIncreaseVolume.png; path = MobilePlayer/Resources/MLIncreaseVolume.png; sourceTree = "<group>"; };
 		0901F7A6C16F8F2B236DFAFA06D92435 /* Pods-Video PlayerUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Video PlayerUITests-resources.sh"; sourceTree = "<group>"; };
-		0B1727A39B4402FD9A219C73B0FFDBA1 /* MLIncreaseVolume@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLIncreaseVolume@3x.png"; path = "MobilePlayer/Resources/MLIncreaseVolume@3x.png"; sourceTree = "<group>"; };
-		0CC0BAA8C6A9FC5D0BCA88E79C72B8C4 /* MLShareButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLShareButton@3x.png"; path = "MobilePlayer/Resources/MLShareButton@3x.png"; sourceTree = "<group>"; };
-		0CC8686C7C9EECFD2F6D00C88132E89F /* ElementConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ElementConfig.swift; path = MobilePlayer/Config/ElementConfig.swift; sourceTree = "<group>"; };
 		0D7DBE160FECE9BD9518DBE0281F491B /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/MediaPlayer.framework; sourceTree = DEVELOPER_DIR; };
-		0FA536182E580E46D768447CD047B36D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E80092FEC1CB73FB6432C902474E33C /* WatermarkConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WatermarkConfig.swift; path = MobilePlayer/Config/WatermarkConfig.swift; sourceTree = "<group>"; };
 		1140742F4248B4B759C9270770B83DA2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		133510242C7C75EA4705D8FFA3E0C615 /* MobilePlayerNotification.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerNotification.swift; path = MobilePlayer/MobilePlayerNotification.swift; sourceTree = "<group>"; };
 		18A4DA882036647C0CE11613E6623310 /* Pods-Video PlayerUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Video PlayerUITests.release.xcconfig"; sourceTree = "<group>"; };
+		1C6F2C743F7E9E8A58E6B93C3AA15CEF /* Slider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Slider.swift; path = MobilePlayer/Views/Slider.swift; sourceTree = "<group>"; };
+		1DA5CC70A4EBCE2EFAD5FD10F0A188C2 /* ToggleButtonConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ToggleButtonConfig.swift; path = MobilePlayer/Config/ToggleButtonConfig.swift; sourceTree = "<group>"; };
 		2A04F24CE0ABF0476F8EE1B2FDE72903 /* Pods-Video PlayerTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Video PlayerTests-umbrella.h"; sourceTree = "<group>"; };
-		2A8BE5AB39B1F380459DABCFB9379C05 /* Button.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Button.swift; path = MobilePlayer/Views/Button.swift; sourceTree = "<group>"; };
-		2B4CFAD6DA0E00AB77BBA50248CE6CEF /* MLShareButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLShareButton@2x.png"; path = "MobilePlayer/Resources/MLShareButton@2x.png"; sourceTree = "<group>"; };
-		2E004E4186A3AA16753E41831245BD9A /* Label.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Label.swift; path = MobilePlayer/Views/Label.swift; sourceTree = "<group>"; };
 		2E0BA64A21B7610E94B338B55459E6AD /* Pods-Video PlayerUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Video PlayerUITests-acknowledgements.plist"; sourceTree = "<group>"; };
 		3041EB4C9CAEB7CFAAE821D4FA757AEA /* Pods-Video Player-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Video Player-dummy.m"; sourceTree = "<group>"; };
-		31DD608B058D39181A2EF44410D339FF /* MobilePlayer.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MobilePlayer.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		32D3A410375F910EB6DBF45BC22C52A4 /* BarConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BarConfig.swift; path = MobilePlayer/Config/BarConfig.swift; sourceTree = "<group>"; };
-		37465E60CFFEBF8D3B2429788A9EBAED /* SliderConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SliderConfig.swift; path = MobilePlayer/Config/SliderConfig.swift; sourceTree = "<group>"; };
-		3A96EBDFCE9D464EB2D9876D7073D998 /* MLIncreaseVolume.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLIncreaseVolume.png; path = MobilePlayer/Resources/MLIncreaseVolume.png; sourceTree = "<group>"; };
-		3BA938BC67B4B454C405FCAB21689CC1 /* MLVolumeButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLVolumeButton.png; path = MobilePlayer/Resources/MLVolumeButton.png; sourceTree = "<group>"; };
-		3E3248E8677208608A856301F2ED8323 /* MLCloseButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLCloseButton@2x.png"; path = "MobilePlayer/Resources/MLCloseButton@2x.png"; sourceTree = "<group>"; };
+		36277B6BED0413D92D90B6728C4E23B2 /* FirebaseAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseAnalytics.framework; path = Frameworks/frameworks/FirebaseAnalytics.framework; sourceTree = "<group>"; };
+		3C4DB6DF3DBE4C85AF562A21EB2327CC /* SwiftyJSON.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftyJSON.xcconfig; sourceTree = "<group>"; };
 		41C6D1672AE827ACDBCA87D9FE70A2A7 /* Pods-Video PlayerUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Video PlayerUITests-dummy.m"; sourceTree = "<group>"; };
-		43B493561505980D0B5DA95228935963 /* MobilePlayer-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MobilePlayer-prefix.pch"; sourceTree = "<group>"; };
-		46ECD94DB947FB192DE593818A5E8B93 /* MLVolumeButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLVolumeButton@3x.png"; path = "MobilePlayer/Resources/MLVolumeButton@3x.png"; sourceTree = "<group>"; };
-		47D1C6DC412C7990A210838AB398C048 /* MobilePlayerOverlayViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerOverlayViewController.swift; path = MobilePlayer/MobilePlayerOverlayViewController.swift; sourceTree = "<group>"; };
-		486BD0682EECA5B572DE9F5A51890F53 /* Slider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Slider.swift; path = MobilePlayer/Views/Slider.swift; sourceTree = "<group>"; };
-		48A9B65B9C431A1F02ACF12C64EDD98E /* ButtonConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ButtonConfig.swift; path = MobilePlayer/Config/ButtonConfig.swift; sourceTree = "<group>"; };
-		504DC3CD81831E91CD2C1FA1B517BB1B /* Bar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Bar.swift; path = MobilePlayer/Views/Bar.swift; sourceTree = "<group>"; };
-		539D3EDD2E8DCD4E404323A0A46A6FDA /* ToggleButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ToggleButton.swift; path = MobilePlayer/Views/ToggleButton.swift; sourceTree = "<group>"; };
+		42457F15C64177F2F89431B48860B98B /* Pods_Video_PlayerUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Video_PlayerUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		45B87EBCB7F5EE9C95FBBF4448551C26 /* MLCloseButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLCloseButton.png; path = MobilePlayer/Resources/MLCloseButton.png; sourceTree = "<group>"; };
+		4673448A356E2FFC3B1AC926C4F0C3EA /* SwiftyJSON-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftyJSON-dummy.m"; sourceTree = "<group>"; };
+		47FD18E341F0AC2B2C32EB691910D66D /* YoutubeParser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = YoutubeParser.swift; path = MobilePlayer/Parsers/YoutubeParser.swift; sourceTree = "<group>"; };
+		493CF6366F65C8DA3EC049D8FB866617 /* MobilePlayer-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MobilePlayer-umbrella.h"; sourceTree = "<group>"; };
+		4D69B9E7368E4A5A95D6E02365D8FDEF /* ButtonConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ButtonConfig.swift; path = MobilePlayer/Config/ButtonConfig.swift; sourceTree = "<group>"; };
+		4E3B490A22CB69E9B3BE062430CEFF99 /* MobilePlayerOverlayViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerOverlayViewController.swift; path = MobilePlayer/MobilePlayerOverlayViewController.swift; sourceTree = "<group>"; };
+		4E431D83B1C2170F664157B7F151AAED /* MLPlayButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPlayButton@2x.png"; path = "MobilePlayer/Resources/MLPlayButton@2x.png"; sourceTree = "<group>"; };
+		53663960E236F65AA599D264624CB4A8 /* MobilePlayerViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerViewController.swift; path = MobilePlayer/MobilePlayerViewController.swift; sourceTree = "<group>"; };
 		53E68595B1FE362466A091498B02C6CD /* Pods-Video Player-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Video Player-frameworks.sh"; sourceTree = "<group>"; };
 		54DF695361BC6921BFC0EF81F8F9F754 /* Pods-Video Player-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Video Player-resources.sh"; sourceTree = "<group>"; };
-		5CB895EE9437F8305802B6C51C4A1CEF /* Pods_Video_PlayerTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Video_PlayerTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5522C1092F27F03198BE8E4D13FE7B36 /* UIColor+Hex.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIColor+Hex.swift"; path = "MobilePlayer/Extensions/UIColor+Hex.swift"; sourceTree = "<group>"; };
+		5A2FBF1CF5D92C6CAFFC405CDBAB63C6 /* Bar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Bar.swift; path = MobilePlayer/Views/Bar.swift; sourceTree = "<group>"; };
+		5B7455EBA0C19E457F7D31F971FBE39D /* Firebase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Firebase.h; path = Headers/Firebase.h; sourceTree = "<group>"; };
 		5D5B8B318BC554A7453FFB5AF0ABDFBB /* Pods-Video PlayerTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Video PlayerTests.modulemap"; sourceTree = "<group>"; };
-		645AD0628BDE3B4247F50025607610DB /* MobilePlayer-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MobilePlayer-umbrella.h"; sourceTree = "<group>"; };
+		605B9743F2AFD6A64FAABEDB8345DB3A /* SwiftyJSON-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-prefix.pch"; sourceTree = "<group>"; };
+		620BBAA14E7C73D39A9362D7E9676FA4 /* SwiftyJSON.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SwiftyJSON.modulemap; sourceTree = "<group>"; };
+		63E811AD2B90129D709902049B3D26E2 /* MobilePlayerNotification.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerNotification.swift; path = MobilePlayer/MobilePlayerNotification.swift; sourceTree = "<group>"; };
 		66A41DDC2C9C4B573E6AF599D91680D9 /* Pods-Video Player.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Video Player.modulemap"; sourceTree = "<group>"; };
-		66B9DF1EF4FEDF9A4EC3DE4F55B19B12 /* MobilePlayer.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = MobilePlayer.modulemap; sourceTree = "<group>"; };
+		675C455A4AF3FF0EED344D68A1167669 /* ClosureSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ClosureSupport.swift; path = MobilePlayer/Extensions/ClosureSupport.swift; sourceTree = "<group>"; };
 		67A9F746255F9D43404F85124B399B81 /* Pods-Video PlayerTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Video PlayerTests.release.xcconfig"; sourceTree = "<group>"; };
-		69C102E9C818982D04DA2F7E39C07E74 /* LabelConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LabelConfig.swift; path = MobilePlayer/Config/LabelConfig.swift; sourceTree = "<group>"; };
-		6CB834C36A268133426730015C42D1DC /* Pods_Video_Player.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Video_Player.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		76C727F7FB1AA1D2C3A240440DFC16CC /* WatermarkViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WatermarkViewController.swift; path = MobilePlayer/WatermarkViewController.swift; sourceTree = "<group>"; };
-		780C2EDB3BEA247C45622DCDEE20B55D /* VolumeView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VolumeView.swift; path = MobilePlayer/Views/VolumeView.swift; sourceTree = "<group>"; };
-		79F6E23859286B944E294E25D26032A3 /* MLPlayButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPlayButton@2x.png"; path = "MobilePlayer/Resources/MLPlayButton@2x.png"; sourceTree = "<group>"; };
-		7CA0629A8FA7C3829F438F75C5DE0509 /* MLVolumeButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLVolumeButton@2x.png"; path = "MobilePlayer/Resources/MLVolumeButton@2x.png"; sourceTree = "<group>"; };
+		67F0908378DC05680F114F2DD6139289 /* FirebaseStorage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseStorage.framework; path = Frameworks/FirebaseStorage.framework; sourceTree = "<group>"; };
+		68D0E9278ED41DF458F98BB1B8B3758F /* MLPauseButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPauseButton@3x.png"; path = "MobilePlayer/Resources/MLPauseButton@3x.png"; sourceTree = "<group>"; };
+		68E7027EE83F8DED1F23EA6C5D53FB5B /* MLReduceVolume@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLReduceVolume@2x.png"; path = "MobilePlayer/Resources/MLReduceVolume@2x.png"; sourceTree = "<group>"; };
+		6920E05A6F4DDDD074E4D41FEB8E6D0A /* SwiftyJSON.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = Source/SwiftyJSON.swift; sourceTree = "<group>"; };
+		6FC78A3D5A4A1BAE0CF440E7438AFF71 /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		72E037DDA43877FEAAA5D296DE68515B /* ToggleButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ToggleButton.swift; path = MobilePlayer/Views/ToggleButton.swift; sourceTree = "<group>"; };
+		73577304AED3181F1C1D95676014162D /* MobilePlayer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MobilePlayer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		756880BBC36FB56DA2DB775C50A9817F /* MobilePlayerConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerConfig.swift; path = MobilePlayer/Config/MobilePlayerConfig.swift; sourceTree = "<group>"; };
+		7DAAF18C38FF7FC2454E0DB90E553458 /* Button.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Button.swift; path = MobilePlayer/Views/Button.swift; sourceTree = "<group>"; };
+		7F40DF7F395120595D17559540908272 /* SliderConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SliderConfig.swift; path = MobilePlayer/Config/SliderConfig.swift; sourceTree = "<group>"; };
+		80946E1DB48F7EDAFA4C386962345CFF /* VolumeView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VolumeView.swift; path = MobilePlayer/Views/VolumeView.swift; sourceTree = "<group>"; };
+		81381746FF84F71436384090E10522F8 /* Label.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Label.swift; path = MobilePlayer/Views/Label.swift; sourceTree = "<group>"; };
 		81DD5EC0A9E96B67B21400B8F966F9DF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		82E56A9266FB20642413ACA688A538FE /* MLReduceVolume@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLReduceVolume@3x.png"; path = "MobilePlayer/Resources/MLReduceVolume@3x.png"; sourceTree = "<group>"; };
-		86AA61CEF92D1529324342A8A698811E /* MLPauseButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLPauseButton.png; path = MobilePlayer/Resources/MLPauseButton.png; sourceTree = "<group>"; };
 		88C471B6F8EFAEBD2158E83DE8BAF1E6 /* Pods-Video PlayerUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Video PlayerUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		8B1648CA5C784F67DF8B1650F1173807 /* Pods-Video Player-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Video Player-acknowledgements.markdown"; sourceTree = "<group>"; };
 		8FD7E7C13F89DDA74280F0EF2F52F0F6 /* Pods-Video PlayerTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Video PlayerTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		90BDB3F57DF01C83D6D7E60FFB0480F2 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		91195FB94A77247B829925D5DCB374E6 /* MLShareButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLShareButton@2x.png"; path = "MobilePlayer/Resources/MLShareButton@2x.png"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		93D7670852D9C976A58CA6571C017656 /* MLPauseButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPauseButton@3x.png"; path = "MobilePlayer/Resources/MLPauseButton@3x.png"; sourceTree = "<group>"; };
+		95A6ADBCFCBFE628EA62BE990C887A34 /* MLPauseButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPauseButton@2x.png"; path = "MobilePlayer/Resources/MLPauseButton@2x.png"; sourceTree = "<group>"; };
 		963AA39BC62D743866CCC7F9662576B7 /* Pods-Video PlayerUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Video PlayerUITests-frameworks.sh"; sourceTree = "<group>"; };
+		986677F70D3C60D502CDDAA8D16A254D /* MobilePlayer.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MobilePlayer.xcconfig; sourceTree = "<group>"; };
+		9866BD8464A08F15CCE66FA7065B9066 /* MLCloseButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLCloseButton@3x.png"; path = "MobilePlayer/Resources/MLCloseButton@3x.png"; sourceTree = "<group>"; };
 		98F940D149DC3C682F73B9FDD74BDE0C /* Pods-Video PlayerTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Video PlayerTests-acknowledgements.plist"; sourceTree = "<group>"; };
-		9D16EA45788237859BF176C7ADF86B54 /* MLPlayButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLPlayButton.png; path = MobilePlayer/Resources/MLPlayButton.png; sourceTree = "<group>"; };
-		A09FA196127B6117285959F449242A7F /* MobilePlayer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MobilePlayer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A4A11E00F0E15206029DAFA7F3AC36AC /* ClosureSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ClosureSupport.swift; path = MobilePlayer/Extensions/ClosureSupport.swift; sourceTree = "<group>"; };
+		A1892E9DC5C4256D18E641D0AA1FD481 /* MobilePlayerControlsView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerControlsView.swift; path = MobilePlayer/Views/MobilePlayerControlsView.swift; sourceTree = "<group>"; };
+		A6EA9A5578866A4A73777B7EF68512CA /* GoogleSymbolUtilities.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleSymbolUtilities.framework; path = Frameworks/GoogleSymbolUtilities.framework; sourceTree = "<group>"; };
 		A7F7556C1906A05AC4734F45EE8A1387 /* Pods-Video Player-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Video Player-umbrella.h"; sourceTree = "<group>"; };
-		A831165CD69A5D3736DECAB0DC8B8F18 /* MLIncreaseVolume@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLIncreaseVolume@2x.png"; path = "MobilePlayer/Resources/MLIncreaseVolume@2x.png"; sourceTree = "<group>"; };
-		AF917428AE6F676B44E22BF0071B41BB /* MLCloseButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLCloseButton@3x.png"; path = "MobilePlayer/Resources/MLCloseButton@3x.png"; sourceTree = "<group>"; };
-		B1A189B011B92353EF9B4C0CED343D98 /* StateHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StateHelper.swift; path = MobilePlayer/Helpers/StateHelper.swift; sourceTree = "<group>"; };
+		A9258A10972EB3C8CADC677D1B229110 /* GoogleUtilities.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleUtilities.framework; path = Frameworks/GoogleUtilities.framework; sourceTree = "<group>"; };
+		AA7E4FE16169BF713616D51EBE37AE1A /* MobilePlayer-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MobilePlayer-dummy.m"; sourceTree = "<group>"; };
+		AAE24CB2B20BF94FF1F2C0AC2AEDCA33 /* MLReduceVolume@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLReduceVolume@3x.png"; path = "MobilePlayer/Resources/MLReduceVolume@3x.png"; sourceTree = "<group>"; };
+		B1627AA5954389721233BC1528FAB0A5 /* FirebaseInstanceID.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseInstanceID.framework; path = Frameworks/FirebaseInstanceID.framework; sourceTree = "<group>"; };
+		B447B888DD82C98C9EAE4857F5B78E92 /* UIImage+CocoaPods.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIImage+CocoaPods.swift"; path = "MobilePlayer/Extensions/UIImage+CocoaPods.swift"; sourceTree = "<group>"; };
 		B48C978F3B77FCC1782EBFE04EBA932F /* Pods-Video Player.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Video Player.release.xcconfig"; sourceTree = "<group>"; };
-		B6A69EC49B2E9813D0FF2B490321A115 /* MobilePlayer.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MobilePlayer.xcconfig; sourceTree = "<group>"; };
+		B4D40F010B78C6E97DAFB4E501CCD7B9 /* MLIncreaseVolume@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLIncreaseVolume@2x.png"; path = "MobilePlayer/Resources/MLIncreaseVolume@2x.png"; sourceTree = "<group>"; };
+		B5D7E9287604EF606E3BD3D56B08DDE2 /* ResourceBundle-MobilePlayer-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-MobilePlayer-Info.plist"; sourceTree = "<group>"; };
+		B609CA400E89536D4122F00CD0B9579A /* MLIncreaseVolume@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLIncreaseVolume@3x.png"; path = "MobilePlayer/Resources/MLIncreaseVolume@3x.png"; sourceTree = "<group>"; };
+		B625F016B56D826AA6070256B1AEA26A /* MLPlayButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLPlayButton.png; path = MobilePlayer/Resources/MLPlayButton.png; sourceTree = "<group>"; };
+		B62F62E25291D9AA7FAD969D480C94A1 /* MobilePlayer.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MobilePlayer.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		B700934D8B0D3B996663E41A07BECD16 /* ElementConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ElementConfig.swift; path = MobilePlayer/Config/ElementConfig.swift; sourceTree = "<group>"; };
 		B78F583B615C220D1AA71077C6C7AA50 /* Pods-Video PlayerTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Video PlayerTests.debug.xcconfig"; sourceTree = "<group>"; };
-		B848490767AA056FAAAB584905ABA6C9 /* MLShareButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLShareButton.png; path = MobilePlayer/Resources/MLShareButton.png; sourceTree = "<group>"; };
-		B84FB1EE9D7D17A754F32F72AF1FF524 /* MLReduceVolume@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLReduceVolume@2x.png"; path = "MobilePlayer/Resources/MLReduceVolume@2x.png"; sourceTree = "<group>"; };
-		B8796394B1E7EADEDE85EA759BD9A9EA /* Pods_Video_PlayerUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Video_PlayerUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B79EC3C0746B1462ADCAAE73990E0607 /* MobilePlayer.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = MobilePlayer.modulemap; sourceTree = "<group>"; };
+		B8A4C707049050FC80BF9CF852B997BD /* MLVolumeButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLVolumeButton.png; path = MobilePlayer/Resources/MLVolumeButton.png; sourceTree = "<group>"; };
 		B8E3DD9637DB936E0590575AD6D7244D /* Pods-Video PlayerUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Video PlayerUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		B903BF53D99C70B4AB57E33B6E86E6E9 /* Pods-Video PlayerUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Video PlayerUITests-umbrella.h"; sourceTree = "<group>"; };
-		B9BF6F8C509B4D3BD53226109C7DDC44 /* MLCloseButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLCloseButton.png; path = MobilePlayer/Resources/MLCloseButton.png; sourceTree = "<group>"; };
-		BC21BD4BF4CBDD19137394BFFF41DF3C /* MobilePlayer-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MobilePlayer-dummy.m"; sourceTree = "<group>"; };
+		BB07E5980E441DF445C696D70681606B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDB09700ED099C12C854FA6A343AB7C3 /* FIRInstanceID.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRInstanceID.h; path = Headers/Public/FIRInstanceID.h; sourceTree = "<group>"; };
+		C0742D4B90F921068E5DA34ED92FB989 /* MLPauseButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLPauseButton.png; path = MobilePlayer/Resources/MLPauseButton.png; sourceTree = "<group>"; };
+		C0EE36DEEC5C4B04C9252EA80F47F363 /* Element.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Element.swift; path = MobilePlayer/Views/Element.swift; sourceTree = "<group>"; };
+		C1E509B58CFCB94AB95CAFDA804808AE /* MLCloseButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLCloseButton@2x.png"; path = "MobilePlayer/Resources/MLCloseButton@2x.png"; sourceTree = "<group>"; };
 		C30D2C57B8A3A863418BD9E3F2BA1B3B /* Pods-Video Player-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Video Player-acknowledgements.plist"; sourceTree = "<group>"; };
-		C6552DEF39160F177AEF4704B6466879 /* ResourceBundle-MobilePlayer-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-MobilePlayer-Info.plist"; sourceTree = "<group>"; };
-		C9A00F988804676158AA54BE1D4533A9 /* UIImage+CocoaPods.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIImage+CocoaPods.swift"; path = "MobilePlayer/Extensions/UIImage+CocoaPods.swift"; sourceTree = "<group>"; };
+		C4700435892F2F5637C91D2B00F99469 /* MLShareButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLShareButton@3x.png"; path = "MobilePlayer/Resources/MLShareButton@3x.png"; sourceTree = "<group>"; };
+		CCBBD223373735125848E2EB4D3428D5 /* MobilePlayer-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MobilePlayer-prefix.pch"; sourceTree = "<group>"; };
+		CD2F0EB193B1C16D86DB788287BA98D4 /* MLShareButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLShareButton.png; path = MobilePlayer/Resources/MLShareButton.png; sourceTree = "<group>"; };
+		CED49394DF1A3C61BD1716DA247DBD34 /* MLReduceVolume.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLReduceVolume.png; path = MobilePlayer/Resources/MLReduceVolume.png; sourceTree = "<group>"; };
 		CFE6D7FE402F8E5870B56541A402E547 /* Pods-Video PlayerTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Video PlayerTests-resources.sh"; sourceTree = "<group>"; };
 		D1D97AEF47C77CC1DAC49D9ECFF3ADF8 /* Pods-Video Player.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Video Player.debug.xcconfig"; sourceTree = "<group>"; };
-		D7679BC8B5766F3EE7F7686AE306225E /* MobilePlayerViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerViewController.swift; path = MobilePlayer/MobilePlayerViewController.swift; sourceTree = "<group>"; };
-		D7913E695AE47F17B4934BEA079B7F19 /* ToggleButtonConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ToggleButtonConfig.swift; path = MobilePlayer/Config/ToggleButtonConfig.swift; sourceTree = "<group>"; };
+		D2D38D95E20E34309F540B1FA0039BC0 /* Pods_Video_PlayerTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Video_PlayerTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7A783D771447C47CEF219994FF06BEC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DC048454357FB97C9BC101E414E8E5EE /* MLPlayButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPlayButton@3x.png"; path = "MobilePlayer/Resources/MLPlayButton@3x.png"; sourceTree = "<group>"; };
+		D7E95D376D7114CEB51A22B5E5A3FD32 /* MLPlayButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPlayButton@3x.png"; path = "MobilePlayer/Resources/MLPlayButton@3x.png"; sourceTree = "<group>"; };
+		D7FA051A0DBE6DD398010E99EE82CD71 /* MLVolumeButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLVolumeButton@2x.png"; path = "MobilePlayer/Resources/MLVolumeButton@2x.png"; sourceTree = "<group>"; };
+		DBEC94B80EEDF256A0D5F83C9A74978C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DC2AC58214E9F09A8E1A18A61819714B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		E69185BFEDC26A921C098BE3F64A4796 /* Element.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Element.swift; path = MobilePlayer/Views/Element.swift; sourceTree = "<group>"; };
+		DC9BE96B95FA685C6D513E85F0E6DA01 /* BarConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BarConfig.swift; path = MobilePlayer/Config/BarConfig.swift; sourceTree = "<group>"; };
+		DEBE9CCB914531594C1C17065BA4B51E /* MLVolumeButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLVolumeButton@3x.png"; path = "MobilePlayer/Resources/MLVolumeButton@3x.png"; sourceTree = "<group>"; };
+		E2310E0F144EA99EC02E43E5F975DE1A /* GoogleNetworkingUtilities.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleNetworkingUtilities.framework; path = Frameworks/GoogleNetworkingUtilities.framework; sourceTree = "<group>"; };
+		E443951239F47388C3F86679E6200235 /* SwiftyJSON-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-umbrella.h"; sourceTree = "<group>"; };
+		E5FCCF70B524ECF33CF4F4F9D8A6F315 /* WatermarkViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WatermarkViewController.swift; path = MobilePlayer/WatermarkViewController.swift; sourceTree = "<group>"; };
 		E6F8F73971EDCBFDE37990AA8ABAC0DB /* Pods-Video PlayerUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Video PlayerUITests.modulemap"; sourceTree = "<group>"; };
-		E72F86C36CC2798EB20ABABDFAF3E1E5 /* MobilePlayerControlsView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerControlsView.swift; path = MobilePlayer/Views/MobilePlayerControlsView.swift; sourceTree = "<group>"; };
-		E838ED59B43D9438FA368C6300CB6036 /* UIColor+Hex.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIColor+Hex.swift"; path = "MobilePlayer/Extensions/UIColor+Hex.swift"; sourceTree = "<group>"; };
-		ECA7DC1A7F7E5021E37EE6DD929A91D2 /* YoutubeParser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = YoutubeParser.swift; path = MobilePlayer/Parsers/YoutubeParser.swift; sourceTree = "<group>"; };
 		ED2C36774401C2F5C76709C2C203A3E3 /* Pods-Video PlayerTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Video PlayerTests-dummy.m"; sourceTree = "<group>"; };
-		F02EFD18FF0962FC35FCA1E878B2464A /* MLReduceVolume.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLReduceVolume.png; path = MobilePlayer/Resources/MLReduceVolume.png; sourceTree = "<group>"; };
-		F1DA6AFD6865CC91ED933BF2DC983E34 /* WatermarkConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WatermarkConfig.swift; path = MobilePlayer/Config/WatermarkConfig.swift; sourceTree = "<group>"; };
-		FACD6C96A11FBDF0EAA9E57323C4512D /* MobilePlayerConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerConfig.swift; path = MobilePlayer/Config/MobilePlayerConfig.swift; sourceTree = "<group>"; };
+		F00E932FBA22903F84790FCBBA357007 /* LabelConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LabelConfig.swift; path = MobilePlayer/Config/LabelConfig.swift; sourceTree = "<group>"; };
+		F74C6CF0F2C8B149C92749F56EB55945 /* Pods_Video_Player.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Video_Player.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		13E05F1871A5E672CAC6DAAAE1FB7284 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5E58DBCB83406F8A78B2C696A28C52A8 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		1880953F73D8280042DD9B918DB885D2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -209,14 +245,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		837AB16CAED7B8E95EDEC2B8A25B0D25 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				14774A26349E8DA1004CA47340659F1D /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		9D98B558939E62BBED380FC9DDE8F663 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -224,15 +252,63 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		F5B10C5A9D8C4528387D8A433A31A608 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2A06B84C4378A442A608987F5CC2756A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		015075DD388BC0E2DD791EBFE93B1C9A /* Pods */ = {
+		036123BDD94F7350977FE4EDAB523A3C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				81A53BFE55154F2F69A4251B18D0440B /* MobilePlayer */,
+				A6EA9A5578866A4A73777B7EF68512CA /* GoogleSymbolUtilities.framework */,
 			);
-			name = Pods;
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		06288AB66440401BB1532B446D8F282C /* SwiftyJSON */ = {
+			isa = PBXGroup;
+			children = (
+				6920E05A6F4DDDD074E4D41FEB8E6D0A /* SwiftyJSON.swift */,
+				506749C95872114ED253E4F2038EF7CB /* Support Files */,
+			);
+			path = SwiftyJSON;
+			sourceTree = "<group>";
+		};
+		09E21CE59C8240622D4F525249137FB7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A9258A10972EB3C8CADC677D1B229110 /* GoogleUtilities.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0F5F25D202A181734E828E8B16A2E1F9 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				DBEC94B80EEDF256A0D5F83C9A74978C /* Info.plist */,
+				B79EC3C0746B1462ADCAAE73990E0607 /* MobilePlayer.modulemap */,
+				986677F70D3C60D502CDDAA8D16A254D /* MobilePlayer.xcconfig */,
+				AA7E4FE16169BF713616D51EBE37AE1A /* MobilePlayer-dummy.m */,
+				CCBBD223373735125848E2EB4D3428D5 /* MobilePlayer-prefix.pch */,
+				493CF6366F65C8DA3EC049D8FB866617 /* MobilePlayer-umbrella.h */,
+				B5D7E9287604EF606E3BD3D56B08DDE2 /* ResourceBundle-MobilePlayer-Info.plist */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/MobilePlayer";
+			sourceTree = "<group>";
+		};
+		0F961342935AD29BAD2A3445E65F61DC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				67F0908378DC05680F114F2DD6139289 /* FirebaseStorage.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		122DA2E5084A4393C29BE363C764795C /* Frameworks */ = {
@@ -241,6 +317,30 @@
 				51F3E149445E33794EACA4966204137A /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1799CD927ACD163F3F0381F4B26785E1 /* Firebase */ = {
+			isa = PBXGroup;
+			children = (
+				67ACA1454864E7A24D0BE6D1B9DAE5EC /* Analytics */,
+			);
+			path = Firebase;
+			sourceTree = "<group>";
+		};
+		1D560E2105D41C72A119384DEFE654F7 /* FirebaseStorage */ = {
+			isa = PBXGroup;
+			children = (
+				0F961342935AD29BAD2A3445E65F61DC /* Frameworks */,
+			);
+			path = FirebaseStorage;
+			sourceTree = "<group>";
+		};
+		269E5E8E5CA3E90CD54FF20E6AA9DDB9 /* GoogleUtilities */ = {
+			isa = PBXGroup;
+			children = (
+				09E21CE59C8240622D4F525249137FB7 /* Frameworks */,
+			);
+			path = GoogleUtilities;
 			sourceTree = "<group>";
 		};
 		3A5FC67ED0A52CB03D165C96F2EA1979 /* Pods-Video PlayerUITests */ = {
@@ -261,6 +361,14 @@
 			path = "Target Support Files/Pods-Video PlayerUITests";
 			sourceTree = "<group>";
 		};
+		3DFED8991214B6C366E8465E08A04BF3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B1627AA5954389721233BC1528FAB0A5 /* FirebaseInstanceID.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		454ECF71D0E5ECA8D2BA5381DA01FED7 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -269,6 +377,28 @@
 				3A5FC67ED0A52CB03D165C96F2EA1979 /* Pods-Video PlayerUITests */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		4ACCE45EE2BCA02C6A3BB40BBA690DD3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E2310E0F144EA99EC02E43E5F975DE1A /* GoogleNetworkingUtilities.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		506749C95872114ED253E4F2038EF7CB /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				BB07E5980E441DF445C696D70681606B /* Info.plist */,
+				620BBAA14E7C73D39A9362D7E9676FA4 /* SwiftyJSON.modulemap */,
+				3C4DB6DF3DBE4C85AF562A21EB2327CC /* SwiftyJSON.xcconfig */,
+				4673448A356E2FFC3B1AC926C4F0C3EA /* SwiftyJSON-dummy.m */,
+				605B9743F2AFD6A64FAABEDB8345DB3A /* SwiftyJSON-prefix.pch */,
+				E443951239F47388C3F86679E6200235 /* SwiftyJSON-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/SwiftyJSON";
 			sourceTree = "<group>";
 		};
 		51F3E149445E33794EACA4966204137A /* iOS */ = {
@@ -281,19 +411,40 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		69A8F8B652F4CFB80B395CE5DEE6E07C /* Support Files */ = {
+		61AC8841A38749B56702997C15CFF2FF /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				0FA536182E580E46D768447CD047B36D /* Info.plist */,
-				66B9DF1EF4FEDF9A4EC3DE4F55B19B12 /* MobilePlayer.modulemap */,
-				B6A69EC49B2E9813D0FF2B490321A115 /* MobilePlayer.xcconfig */,
-				BC21BD4BF4CBDD19137394BFFF41DF3C /* MobilePlayer-dummy.m */,
-				43B493561505980D0B5DA95228935963 /* MobilePlayer-prefix.pch */,
-				645AD0628BDE3B4247F50025607610DB /* MobilePlayer-umbrella.h */,
-				C6552DEF39160F177AEF4704B6466879 /* ResourceBundle-MobilePlayer-Info.plist */,
+				45B87EBCB7F5EE9C95FBBF4448551C26 /* MLCloseButton.png */,
+				C1E509B58CFCB94AB95CAFDA804808AE /* MLCloseButton@2x.png */,
+				9866BD8464A08F15CCE66FA7065B9066 /* MLCloseButton@3x.png */,
+				08A21A11D6AC4641FAAF96AED9E02679 /* MLIncreaseVolume.png */,
+				B4D40F010B78C6E97DAFB4E501CCD7B9 /* MLIncreaseVolume@2x.png */,
+				B609CA400E89536D4122F00CD0B9579A /* MLIncreaseVolume@3x.png */,
+				C0742D4B90F921068E5DA34ED92FB989 /* MLPauseButton.png */,
+				95A6ADBCFCBFE628EA62BE990C887A34 /* MLPauseButton@2x.png */,
+				68D0E9278ED41DF458F98BB1B8B3758F /* MLPauseButton@3x.png */,
+				B625F016B56D826AA6070256B1AEA26A /* MLPlayButton.png */,
+				4E431D83B1C2170F664157B7F151AAED /* MLPlayButton@2x.png */,
+				D7E95D376D7114CEB51A22B5E5A3FD32 /* MLPlayButton@3x.png */,
+				CED49394DF1A3C61BD1716DA247DBD34 /* MLReduceVolume.png */,
+				68E7027EE83F8DED1F23EA6C5D53FB5B /* MLReduceVolume@2x.png */,
+				AAE24CB2B20BF94FF1F2C0AC2AEDCA33 /* MLReduceVolume@3x.png */,
+				CD2F0EB193B1C16D86DB788287BA98D4 /* MLShareButton.png */,
+				91195FB94A77247B829925D5DCB374E6 /* MLShareButton@2x.png */,
+				C4700435892F2F5637C91D2B00F99469 /* MLShareButton@3x.png */,
+				B8A4C707049050FC80BF9CF852B997BD /* MLVolumeButton.png */,
+				D7FA051A0DBE6DD398010E99EE82CD71 /* MLVolumeButton@2x.png */,
+				DEBE9CCB914531594C1C17065BA4B51E /* MLVolumeButton@3x.png */,
 			);
-			name = "Support Files";
-			path = "../Target Support Files/MobilePlayer";
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		67ACA1454864E7A24D0BE6D1B9DAE5EC /* Analytics */ = {
+			isa = PBXGroup;
+			children = (
+				5B7455EBA0C19E457F7D31F971FBE39D /* Firebase.h */,
+			);
+			name = Analytics;
 			sourceTree = "<group>";
 		};
 		70B7D6D00B502BEE09E7A3C059DF2623 /* Pods-Video PlayerTests */ = {
@@ -314,47 +465,55 @@
 			path = "Target Support Files/Pods-Video PlayerTests";
 			sourceTree = "<group>";
 		};
+		76DB68FF5BAE8BDB9A7A37A5F18516FF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				36277B6BED0413D92D90B6728C4E23B2 /* FirebaseAnalytics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				122DA2E5084A4393C29BE363C764795C /* Frameworks */,
-				015075DD388BC0E2DD791EBFE93B1C9A /* Pods */,
-				8F21688B2C69A6F2821F9C9612D1304C /* Products */,
+				9698B41D8BD6F62259C6E14A117B8866 /* Pods */,
+				B0E70DC29760703C2173CAF966AB4BBA /* Products */,
 				454ECF71D0E5ECA8D2BA5381DA01FED7 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		81A53BFE55154F2F69A4251B18D0440B /* MobilePlayer */ = {
+		7DEB274712874FA6B6BF0F78EF85820B /* MobilePlayer */ = {
 			isa = PBXGroup;
 			children = (
-				504DC3CD81831E91CD2C1FA1B517BB1B /* Bar.swift */,
-				32D3A410375F910EB6DBF45BC22C52A4 /* BarConfig.swift */,
-				2A8BE5AB39B1F380459DABCFB9379C05 /* Button.swift */,
-				48A9B65B9C431A1F02ACF12C64EDD98E /* ButtonConfig.swift */,
-				A4A11E00F0E15206029DAFA7F3AC36AC /* ClosureSupport.swift */,
-				E69185BFEDC26A921C098BE3F64A4796 /* Element.swift */,
-				0CC8686C7C9EECFD2F6D00C88132E89F /* ElementConfig.swift */,
-				2E004E4186A3AA16753E41831245BD9A /* Label.swift */,
-				69C102E9C818982D04DA2F7E39C07E74 /* LabelConfig.swift */,
-				FACD6C96A11FBDF0EAA9E57323C4512D /* MobilePlayerConfig.swift */,
-				E72F86C36CC2798EB20ABABDFAF3E1E5 /* MobilePlayerControlsView.swift */,
-				133510242C7C75EA4705D8FFA3E0C615 /* MobilePlayerNotification.swift */,
-				47D1C6DC412C7990A210838AB398C048 /* MobilePlayerOverlayViewController.swift */,
-				D7679BC8B5766F3EE7F7686AE306225E /* MobilePlayerViewController.swift */,
-				486BD0682EECA5B572DE9F5A51890F53 /* Slider.swift */,
-				37465E60CFFEBF8D3B2429788A9EBAED /* SliderConfig.swift */,
-				B1A189B011B92353EF9B4C0CED343D98 /* StateHelper.swift */,
-				539D3EDD2E8DCD4E404323A0A46A6FDA /* ToggleButton.swift */,
-				D7913E695AE47F17B4934BEA079B7F19 /* ToggleButtonConfig.swift */,
-				E838ED59B43D9438FA368C6300CB6036 /* UIColor+Hex.swift */,
-				C9A00F988804676158AA54BE1D4533A9 /* UIImage+CocoaPods.swift */,
-				780C2EDB3BEA247C45622DCDEE20B55D /* VolumeView.swift */,
-				F1DA6AFD6865CC91ED933BF2DC983E34 /* WatermarkConfig.swift */,
-				76C727F7FB1AA1D2C3A240440DFC16CC /* WatermarkViewController.swift */,
-				ECA7DC1A7F7E5021E37EE6DD929A91D2 /* YoutubeParser.swift */,
-				CC9FA27BECA377A53C4816263629D6AB /* Resources */,
-				69A8F8B652F4CFB80B395CE5DEE6E07C /* Support Files */,
+				5A2FBF1CF5D92C6CAFFC405CDBAB63C6 /* Bar.swift */,
+				DC9BE96B95FA685C6D513E85F0E6DA01 /* BarConfig.swift */,
+				7DAAF18C38FF7FC2454E0DB90E553458 /* Button.swift */,
+				4D69B9E7368E4A5A95D6E02365D8FDEF /* ButtonConfig.swift */,
+				675C455A4AF3FF0EED344D68A1167669 /* ClosureSupport.swift */,
+				C0EE36DEEC5C4B04C9252EA80F47F363 /* Element.swift */,
+				B700934D8B0D3B996663E41A07BECD16 /* ElementConfig.swift */,
+				81381746FF84F71436384090E10522F8 /* Label.swift */,
+				F00E932FBA22903F84790FCBBA357007 /* LabelConfig.swift */,
+				756880BBC36FB56DA2DB775C50A9817F /* MobilePlayerConfig.swift */,
+				A1892E9DC5C4256D18E641D0AA1FD481 /* MobilePlayerControlsView.swift */,
+				63E811AD2B90129D709902049B3D26E2 /* MobilePlayerNotification.swift */,
+				4E3B490A22CB69E9B3BE062430CEFF99 /* MobilePlayerOverlayViewController.swift */,
+				53663960E236F65AA599D264624CB4A8 /* MobilePlayerViewController.swift */,
+				1C6F2C743F7E9E8A58E6B93C3AA15CEF /* Slider.swift */,
+				7F40DF7F395120595D17559540908272 /* SliderConfig.swift */,
+				01F0B0098E7661E686051AB6BE600E19 /* StateHelper.swift */,
+				72E037DDA43877FEAAA5D296DE68515B /* ToggleButton.swift */,
+				1DA5CC70A4EBCE2EFAD5FD10F0A188C2 /* ToggleButtonConfig.swift */,
+				5522C1092F27F03198BE8E4D13FE7B36 /* UIColor+Hex.swift */,
+				B447B888DD82C98C9EAE4857F5B78E92 /* UIImage+CocoaPods.swift */,
+				80946E1DB48F7EDAFA4C386962345CFF /* VolumeView.swift */,
+				0E80092FEC1CB73FB6432C902474E33C /* WatermarkConfig.swift */,
+				E5FCCF70B524ECF33CF4F4F9D8A6F315 /* WatermarkViewController.swift */,
+				47FD18E341F0AC2B2C32EB691910D66D /* YoutubeParser.swift */,
+				61AC8841A38749B56702997C15CFF2FF /* Resources */,
+				0F5F25D202A181734E828E8B16A2E1F9 /* Support Files */,
 			);
 			path = MobilePlayer;
 			sourceTree = "<group>";
@@ -377,44 +536,83 @@
 			path = "Target Support Files/Pods-Video Player";
 			sourceTree = "<group>";
 		};
-		8F21688B2C69A6F2821F9C9612D1304C /* Products */ = {
+		9698B41D8BD6F62259C6E14A117B8866 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				31DD608B058D39181A2EF44410D339FF /* MobilePlayer.bundle */,
-				A09FA196127B6117285959F449242A7F /* MobilePlayer.framework */,
-				6CB834C36A268133426730015C42D1DC /* Pods_Video_Player.framework */,
-				5CB895EE9437F8305802B6C51C4A1CEF /* Pods_Video_PlayerTests.framework */,
-				B8796394B1E7EADEDE85EA759BD9A9EA /* Pods_Video_PlayerUITests.framework */,
+				1799CD927ACD163F3F0381F4B26785E1 /* Firebase */,
+				DD6031B38FC88B39F8B9CE3C3603EA7E /* FirebaseAnalytics */,
+				A292A1CA134929ADB79CD59903634F8A /* FirebaseInstanceID */,
+				1D560E2105D41C72A119384DEFE654F7 /* FirebaseStorage */,
+				F8829E9688A41DD5AC5C18EB8EEE44EA /* GoogleInterchangeUtilities */,
+				CB69F3D279E7C2015A744CA7F4FE4C89 /* GoogleNetworkingUtilities */,
+				D27C94B58B4BF4F96B58904A09F06FEC /* GoogleSymbolUtilities */,
+				269E5E8E5CA3E90CD54FF20E6AA9DDB9 /* GoogleUtilities */,
+				7DEB274712874FA6B6BF0F78EF85820B /* MobilePlayer */,
+				06288AB66440401BB1532B446D8F282C /* SwiftyJSON */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		A292A1CA134929ADB79CD59903634F8A /* FirebaseInstanceID */ = {
+			isa = PBXGroup;
+			children = (
+				BDB09700ED099C12C854FA6A343AB7C3 /* FIRInstanceID.h */,
+				3DFED8991214B6C366E8465E08A04BF3 /* Frameworks */,
+			);
+			path = FirebaseInstanceID;
+			sourceTree = "<group>";
+		};
+		B0E70DC29760703C2173CAF966AB4BBA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B62F62E25291D9AA7FAD969D480C94A1 /* MobilePlayer.bundle */,
+				73577304AED3181F1C1D95676014162D /* MobilePlayer.framework */,
+				F74C6CF0F2C8B149C92749F56EB55945 /* Pods_Video_Player.framework */,
+				D2D38D95E20E34309F540B1FA0039BC0 /* Pods_Video_PlayerTests.framework */,
+				42457F15C64177F2F89431B48860B98B /* Pods_Video_PlayerUITests.framework */,
+				6FC78A3D5A4A1BAE0CF440E7438AFF71 /* SwiftyJSON.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		CC9FA27BECA377A53C4816263629D6AB /* Resources */ = {
+		B5D7886DAACD28609B204CFD531F5801 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				B9BF6F8C509B4D3BD53226109C7DDC44 /* MLCloseButton.png */,
-				3E3248E8677208608A856301F2ED8323 /* MLCloseButton@2x.png */,
-				AF917428AE6F676B44E22BF0071B41BB /* MLCloseButton@3x.png */,
-				3A96EBDFCE9D464EB2D9876D7073D998 /* MLIncreaseVolume.png */,
-				A831165CD69A5D3736DECAB0DC8B8F18 /* MLIncreaseVolume@2x.png */,
-				0B1727A39B4402FD9A219C73B0FFDBA1 /* MLIncreaseVolume@3x.png */,
-				86AA61CEF92D1529324342A8A698811E /* MLPauseButton.png */,
-				02FE607A8390C8F3AD58DF17634A3EBB /* MLPauseButton@2x.png */,
-				93D7670852D9C976A58CA6571C017656 /* MLPauseButton@3x.png */,
-				9D16EA45788237859BF176C7ADF86B54 /* MLPlayButton.png */,
-				79F6E23859286B944E294E25D26032A3 /* MLPlayButton@2x.png */,
-				DC048454357FB97C9BC101E414E8E5EE /* MLPlayButton@3x.png */,
-				F02EFD18FF0962FC35FCA1E878B2464A /* MLReduceVolume.png */,
-				B84FB1EE9D7D17A754F32F72AF1FF524 /* MLReduceVolume@2x.png */,
-				82E56A9266FB20642413ACA688A538FE /* MLReduceVolume@3x.png */,
-				B848490767AA056FAAAB584905ABA6C9 /* MLShareButton.png */,
-				2B4CFAD6DA0E00AB77BBA50248CE6CEF /* MLShareButton@2x.png */,
-				0CC0BAA8C6A9FC5D0BCA88E79C72B8C4 /* MLShareButton@3x.png */,
-				3BA938BC67B4B454C405FCAB21689CC1 /* MLVolumeButton.png */,
-				7CA0629A8FA7C3829F438F75C5DE0509 /* MLVolumeButton@2x.png */,
-				46ECD94DB947FB192DE593818A5E8B93 /* MLVolumeButton@3x.png */,
+				050B6D9AAF9C3DB004BE62E3BAE067EF /* GoogleInterchangeUtilities.framework */,
 			);
-			name = Resources;
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CB69F3D279E7C2015A744CA7F4FE4C89 /* GoogleNetworkingUtilities */ = {
+			isa = PBXGroup;
+			children = (
+				4ACCE45EE2BCA02C6A3BB40BBA690DD3 /* Frameworks */,
+			);
+			path = GoogleNetworkingUtilities;
+			sourceTree = "<group>";
+		};
+		D27C94B58B4BF4F96B58904A09F06FEC /* GoogleSymbolUtilities */ = {
+			isa = PBXGroup;
+			children = (
+				036123BDD94F7350977FE4EDAB523A3C /* Frameworks */,
+			);
+			path = GoogleSymbolUtilities;
+			sourceTree = "<group>";
+		};
+		DD6031B38FC88B39F8B9CE3C3603EA7E /* FirebaseAnalytics */ = {
+			isa = PBXGroup;
+			children = (
+				76DB68FF5BAE8BDB9A7A37A5F18516FF /* Frameworks */,
+			);
+			path = FirebaseAnalytics;
+			sourceTree = "<group>";
+		};
+		F8829E9688A41DD5AC5C18EB8EEE44EA /* GoogleInterchangeUtilities */ = {
+			isa = PBXGroup;
+			children = (
+				B5D7886DAACD28609B204CFD531F5801 /* Frameworks */,
+			);
+			path = GoogleInterchangeUtilities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -428,19 +626,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		09A32CFAD12EB7758FDD2B80C8E09C5C /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				395946BE2DDF11F1A3D57746FA012CC7 /* Pods-Video Player-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		5627815C723B2027F5B51002A02C21D9 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				9443F758C8E5C3776D4D0F9EBDE0B035 /* Pods-Video PlayerUITests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		76D7AA98A52ACDC551BB4941D354F519 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D01B4B76047CC78F568B4FC941DB800 /* Pods-Video Player-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -452,25 +650,32 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		B167D0C4351A07CFC06878DC8071FFC6 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				663E60925A6A120DB596141687466F50 /* SwiftyJSON-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		34825D1D1BA59EE8910E6C637C89CEC5 /* Pods-Video Player */ = {
+		49D28510FDB704B4DEFED7FA6B8A53DE /* SwiftyJSON */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CE5083CD5A06C17A31227C0DFA3A8BE3 /* Build configuration list for PBXNativeTarget "Pods-Video Player" */;
+			buildConfigurationList = 21EF1345D0E97BAF6F2C4CE16F94F464 /* Build configuration list for PBXNativeTarget "SwiftyJSON" */;
 			buildPhases = (
-				49A9354BA29CC27825E46A3D866BCF30 /* Sources */,
-				837AB16CAED7B8E95EDEC2B8A25B0D25 /* Frameworks */,
-				09A32CFAD12EB7758FDD2B80C8E09C5C /* Headers */,
+				CC6A1693907C1CF99396D3EB1FCE9FFC /* Sources */,
+				13E05F1871A5E672CAC6DAAAE1FB7284 /* Frameworks */,
+				B167D0C4351A07CFC06878DC8071FFC6 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				8107B6645A60D0650C7705A700A30075 /* PBXTargetDependency */,
 			);
-			name = "Pods-Video Player";
-			productName = "Pods-Video Player";
-			productReference = 6CB834C36A268133426730015C42D1DC /* Pods_Video_Player.framework */;
+			name = SwiftyJSON;
+			productName = SwiftyJSON;
+			productReference = 6FC78A3D5A4A1BAE0CF440E7438AFF71 /* SwiftyJSON.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		4C4FBEB8CBD3A8A7855196F9886AFCF6 /* Pods-Video PlayerUITests */ = {
@@ -487,7 +692,26 @@
 			);
 			name = "Pods-Video PlayerUITests";
 			productName = "Pods-Video PlayerUITests";
-			productReference = B8796394B1E7EADEDE85EA759BD9A9EA /* Pods_Video_PlayerUITests.framework */;
+			productReference = 42457F15C64177F2F89431B48860B98B /* Pods_Video_PlayerUITests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		6673BD385A2E5BFD291E8A8E407FB4B4 /* Pods-Video Player */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0D666F5A4CDB0690D7D486DCB4C4C829 /* Build configuration list for PBXNativeTarget "Pods-Video Player" */;
+			buildPhases = (
+				DFD75D4CB0B94E13F327B341EFE4573C /* Sources */,
+				F5B10C5A9D8C4528387D8A433A31A608 /* Frameworks */,
+				76D7AA98A52ACDC551BB4941D354F519 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				822791360F944DFF5DB4A3AA33826710 /* PBXTargetDependency */,
+				D02339DE0FBDF6483C3FEFED709F890B /* PBXTargetDependency */,
+			);
+			name = "Pods-Video Player";
+			productName = "Pods-Video Player";
+			productReference = F74C6CF0F2C8B149C92749F56EB55945 /* Pods_Video_Player.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		79E06489A2AB29243B3310B6BADFE034 /* MobilePlayer */ = {
@@ -506,7 +730,7 @@
 			);
 			name = MobilePlayer;
 			productName = MobilePlayer;
-			productReference = A09FA196127B6117285959F449242A7F /* MobilePlayer.framework */;
+			productReference = 73577304AED3181F1C1D95676014162D /* MobilePlayer.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		9C4E70BB64168FAB91408AF7402CE1BF /* MobilePlayer-MobilePlayer */ = {
@@ -523,7 +747,7 @@
 			);
 			name = "MobilePlayer-MobilePlayer";
 			productName = "MobilePlayer-MobilePlayer";
-			productReference = 31DD608B058D39181A2EF44410D339FF /* MobilePlayer.bundle */;
+			productReference = B62F62E25291D9AA7FAD969D480C94A1 /* MobilePlayer.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
 		EA044F096E3F187FFED94FEEA4EF4060 /* Pods-Video PlayerTests */ = {
@@ -540,7 +764,7 @@
 			);
 			name = "Pods-Video PlayerTests";
 			productName = "Pods-Video PlayerTests";
-			productReference = 5CB895EE9437F8305802B6C51C4A1CEF /* Pods_Video_PlayerTests.framework */;
+			productReference = D2D38D95E20E34309F540B1FA0039BC0 /* Pods_Video_PlayerTests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -560,15 +784,16 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 8F21688B2C69A6F2821F9C9612D1304C /* Products */;
+			productRefGroup = B0E70DC29760703C2173CAF966AB4BBA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				79E06489A2AB29243B3310B6BADFE034 /* MobilePlayer */,
 				9C4E70BB64168FAB91408AF7402CE1BF /* MobilePlayer-MobilePlayer */,
-				34825D1D1BA59EE8910E6C637C89CEC5 /* Pods-Video Player */,
+				6673BD385A2E5BFD291E8A8E407FB4B4 /* Pods-Video Player */,
 				EA044F096E3F187FFED94FEEA4EF4060 /* Pods-Video PlayerTests */,
 				4C4FBEB8CBD3A8A7855196F9886AFCF6 /* Pods-Video PlayerUITests */,
+				49D28510FDB704B4DEFED7FA6B8A53DE /* SwiftyJSON */,
 			);
 		};
 /* End PBXProject section */
@@ -613,14 +838,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		49A9354BA29CC27825E46A3D866BCF30 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DBE2F5FA216F233745AC6BF90AE8015A /* Pods-Video Player-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		6E6B3976131B1AA15406A8032EDB564A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -641,6 +858,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				531F4B1EF676EB79728546892F39A54A /* Pods-Video PlayerUITests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC6A1693907C1CF99396D3EB1FCE9FFC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1CDE1D330A9E03F8EB03B63BBA3DFE1A /* SwiftyJSON-dummy.m in Sources */,
+				05427030EC54F7E2E169A9C933D0D203 /* SwiftyJSON.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DFD75D4CB0B94E13F327B341EFE4573C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EB9056FEFF132161C95DA0E2CEAA20A6 /* Pods-Video Player-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -686,47 +920,50 @@
 			target = 9C4E70BB64168FAB91408AF7402CE1BF /* MobilePlayer-MobilePlayer */;
 			targetProxy = 04F7D2CABC04460A38B0BB25B15E7513 /* PBXContainerItemProxy */;
 		};
-		8107B6645A60D0650C7705A700A30075 /* PBXTargetDependency */ = {
+		822791360F944DFF5DB4A3AA33826710 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MobilePlayer;
 			target = 79E06489A2AB29243B3310B6BADFE034 /* MobilePlayer */;
-			targetProxy = D1438B195088C6E6A0140EE8E38B9F3D /* PBXContainerItemProxy */;
+			targetProxy = 46AEDA73E9F199EA43B9CCDDCDD7C567 /* PBXContainerItemProxy */;
+		};
+		D02339DE0FBDF6483C3FEFED709F890B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SwiftyJSON;
+			target = 49D28510FDB704B4DEFED7FA6B8A53DE /* SwiftyJSON */;
+			targetProxy = 4DC6F89AF05B97AB2742C0191D45BE76 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0456785D8B3ACCFA3EE732DA46131D07 /* Release */ = {
+		07D7737D50CFB845260D541BF9572F19 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B48C978F3B77FCC1782EBFE04EBA932F /* Pods-Video Player.release.xcconfig */;
+			baseConfigurationReference = 3C4DB6DF3DBE4C85AF562A21EB2327CC /* SwiftyJSON.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-Video Player/Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/SwiftyJSON/SwiftyJSON-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SwiftyJSON/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Video Player/Pods-Video Player.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_Video_Player;
+				MODULEMAP_FILE = "Target Support Files/SwiftyJSON/SwiftyJSON.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = SwiftyJSON;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
 		0FFA1D098378472BD706A75387095165 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -763,7 +1000,7 @@
 		};
 		22F130A806BD7DBD1FCECD0BF857CFDD /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B6A69EC49B2E9813D0FF2B490321A115 /* MobilePlayer.xcconfig */;
+			baseConfigurationReference = 986677F70D3C60D502CDDAA8D16A254D /* MobilePlayer.xcconfig */;
 			buildSettings = {
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/MobilePlayer";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -780,7 +1017,7 @@
 		};
 		28B7EFD83AE0F1C65EEF81C2C93B160A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B6A69EC49B2E9813D0FF2B490321A115 /* MobilePlayer.xcconfig */;
+			baseConfigurationReference = 986677F70D3C60D502CDDAA8D16A254D /* MobilePlayer.xcconfig */;
 			buildSettings = {
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/MobilePlayer";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -866,7 +1103,7 @@
 			};
 			name = Release;
 		};
-		4156BF25CBC4F8C00EAE0DD514D10807 /* Debug */ = {
+		541F37133DECA31F27EDF03C5FA56952 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D1D97AEF47C77CC1DAC49D9ECFF3ADF8 /* Pods-Video Player.debug.xcconfig */;
 			buildSettings = {
@@ -902,7 +1139,7 @@
 		};
 		5638460784F7FA72C66CC9A6EDD80A68 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B6A69EC49B2E9813D0FF2B490321A115 /* MobilePlayer.xcconfig */;
+			baseConfigurationReference = 986677F70D3C60D502CDDAA8D16A254D /* MobilePlayer.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -971,6 +1208,68 @@
 			};
 			name = Debug;
 		};
+		932A064F28085CF71524666A95456E4F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3C4DB6DF3DBE4C85AF562A21EB2327CC /* SwiftyJSON.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/SwiftyJSON/SwiftyJSON-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SwiftyJSON/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SwiftyJSON/SwiftyJSON.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = SwiftyJSON;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		9F9081BBFC7A7DD4AC8F2C2A5C34F3BD /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B48C978F3B77FCC1782EBFE04EBA932F /* Pods-Video Player.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-Video Player/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Video Player/Pods-Video Player.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_Video_Player;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		A6A671E606AE1DD610654657ADFE3CAF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B78F583B615C220D1AA71077C6C7AA50 /* Pods-Video PlayerTests.debug.xcconfig */;
@@ -1006,7 +1305,7 @@
 		};
 		ADCD1B93766915C2EAE218F36D12C702 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B6A69EC49B2E9813D0FF2B490321A115 /* MobilePlayer.xcconfig */;
+			baseConfigurationReference = 986677F70D3C60D502CDDAA8D16A254D /* MobilePlayer.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -1070,11 +1369,29 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		0D666F5A4CDB0690D7D486DCB4C4C829 /* Build configuration list for PBXNativeTarget "Pods-Video Player" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				541F37133DECA31F27EDF03C5FA56952 /* Debug */,
+				9F9081BBFC7A7DD4AC8F2C2A5C34F3BD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		11DF701F01D0712480E1827AB266BD58 /* Build configuration list for PBXNativeTarget "Pods-Video PlayerUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3AC5C3F2EDDCEE8CA8B691D5A822331C /* Debug */,
 				E2CABEE46AC0BBCBC7D2FCD806011826 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		21EF1345D0E97BAF6F2C4CE16F94F464 /* Build configuration list for PBXNativeTarget "SwiftyJSON" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07D7737D50CFB845260D541BF9572F19 /* Debug */,
+				932A064F28085CF71524666A95456E4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1102,15 +1419,6 @@
 			buildConfigurations = (
 				ADCD1B93766915C2EAE218F36D12C702 /* Debug */,
 				5638460784F7FA72C66CC9A6EDD80A68 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		CE5083CD5A06C17A31227C0DFA3A8BE3 /* Build configuration list for PBXNativeTarget "Pods-Video Player" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				4156BF25CBC4F8C00EAE0DD514D10807 /* Debug */,
-				0456785D8B3ACCFA3EE732DA46131D07 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

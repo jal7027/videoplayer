@@ -6,8 +6,11 @@ target 'Video Player' do
   use_frameworks!
 
   pod "MobilePlayer"
+  pod 'Firebase', '>= 2.5.1'
+  pod 'SwiftyJSON' 
+  pod 'Firebase/Storage'
 
-  # Pods for Video Player
+ # Pods for Video Player
 
   target 'Video PlayerTests' do
     inherit! :search_paths
