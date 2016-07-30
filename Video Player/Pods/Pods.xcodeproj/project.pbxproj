@@ -7,71 +7,71 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		007B27A4AEEE6BC9759A3640CC18FA62 /* MLPauseButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 95A6ADBCFCBFE628EA62BE990C887A34 /* MLPauseButton@2x.png */; };
-		05427030EC54F7E2E169A9C933D0D203 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6920E05A6F4DDDD074E4D41FEB8E6D0A /* SwiftyJSON.swift */; };
-		08DC4A365441CB8BC735BD184C214F06 /* MLIncreaseVolume.png in Resources */ = {isa = PBXBuildFile; fileRef = 08A21A11D6AC4641FAAF96AED9E02679 /* MLIncreaseVolume.png */; };
-		0D7FF9BF1F180CB43ADDC6576F074B3E /* BarConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC9BE96B95FA685C6D513E85F0E6DA01 /* BarConfig.swift */; };
-		0DCAA22E3040D12459D3F6D738D55656 /* MLPauseButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 68D0E9278ED41DF458F98BB1B8B3758F /* MLPauseButton@3x.png */; };
-		11E0C37FABA43B8B0F1C65B7A19E4B34 /* MLReduceVolume@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AAE24CB2B20BF94FF1F2C0AC2AEDCA33 /* MLReduceVolume@3x.png */; };
-		152F7AC0A034389627DE874743E8272E /* MLReduceVolume.png in Resources */ = {isa = PBXBuildFile; fileRef = CED49394DF1A3C61BD1716DA247DBD34 /* MLReduceVolume.png */; };
-		1559D10459AED3780E0D1C1C43B03957 /* MobilePlayerOverlayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E3B490A22CB69E9B3BE062430CEFF99 /* MobilePlayerOverlayViewController.swift */; };
-		1CDE1D330A9E03F8EB03B63BBA3DFE1A /* SwiftyJSON-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4673448A356E2FFC3B1AC926C4F0C3EA /* SwiftyJSON-dummy.m */; };
-		220D2335ECE3041F3BC05AB23A68E02B /* Label.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81381746FF84F71436384090E10522F8 /* Label.swift */; };
-		23D1247ACA5979FEA5BE702ED6B1C5C7 /* MLPlayButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D7E95D376D7114CEB51A22B5E5A3FD32 /* MLPlayButton@3x.png */; };
+		007B27A4AEEE6BC9759A3640CC18FA62 /* MLPauseButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4111C6AA8A47A32F112B14B02927325E /* MLPauseButton@2x.png */; };
+		05427030EC54F7E2E169A9C933D0D203 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9604DF4AC4EAE05623CA641FC6E47FF /* SwiftyJSON.swift */; };
+		08DC4A365441CB8BC735BD184C214F06 /* MLIncreaseVolume.png in Resources */ = {isa = PBXBuildFile; fileRef = A0D799DEE798794DFD78CD1C0973487E /* MLIncreaseVolume.png */; };
+		0D7FF9BF1F180CB43ADDC6576F074B3E /* BarConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FF810BCF249CE55C1B7D0FC4BF95B4B /* BarConfig.swift */; };
+		0DCAA22E3040D12459D3F6D738D55656 /* MLPauseButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F89715B51D20989AEC27825CA2DB2DC6 /* MLPauseButton@3x.png */; };
+		11E0C37FABA43B8B0F1C65B7A19E4B34 /* MLReduceVolume@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 062827D3E7020B928695D5945792E405 /* MLReduceVolume@3x.png */; };
+		152F7AC0A034389627DE874743E8272E /* MLReduceVolume.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F0254C892761944266D54C2D88DEF08 /* MLReduceVolume.png */; };
+		1559D10459AED3780E0D1C1C43B03957 /* MobilePlayerOverlayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E754E7BFE186841E032EFF608114FEE8 /* MobilePlayerOverlayViewController.swift */; };
+		1CDE1D330A9E03F8EB03B63BBA3DFE1A /* SwiftyJSON-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 438E9D44210A17D4064A074D23402F20 /* SwiftyJSON-dummy.m */; };
+		220D2335ECE3041F3BC05AB23A68E02B /* Label.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9BADF8F82DCE0D37DB7CA8A4CB6451 /* Label.swift */; };
+		23D1247ACA5979FEA5BE702ED6B1C5C7 /* MLPlayButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 16CABE886F8128BA54693F94E5843E2C /* MLPlayButton@3x.png */; };
 		2A06B84C4378A442A608987F5CC2756A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC2AC58214E9F09A8E1A18A61819714B /* Foundation.framework */; };
-		2DEACDD995D946CB8E9A323BE8E544B7 /* StateHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01F0B0098E7661E686051AB6BE600E19 /* StateHelper.swift */; };
-		30E4AD121CEC61E44B4D9BE1123EBBCC /* MLCloseButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 45B87EBCB7F5EE9C95FBBF4448551C26 /* MLCloseButton.png */; };
+		2DEACDD995D946CB8E9A323BE8E544B7 /* StateHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D36A71D9C3AF7EEC3E5A7A0D124ADC7 /* StateHelper.swift */; };
+		30E4AD121CEC61E44B4D9BE1123EBBCC /* MLCloseButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 569E6605E9A35F19C512E4817296F295 /* MLCloseButton.png */; };
 		3814C29A29CC6A57A942E49700FD617B /* MobilePlayer.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B62F62E25291D9AA7FAD969D480C94A1 /* MobilePlayer.bundle */; };
 		531F4B1EF676EB79728546892F39A54A /* Pods-Video PlayerUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 41C6D1672AE827ACDBCA87D9FE70A2A7 /* Pods-Video PlayerUITests-dummy.m */; };
-		55B4EB5A4CCA7FC1944DF7B0CB18981A /* MLShareButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C4700435892F2F5637C91D2B00F99469 /* MLShareButton@3x.png */; };
-		5B81A6B7AE4099D912A64AF757958174 /* MLPlayButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E431D83B1C2170F664157B7F151AAED /* MLPlayButton@2x.png */; };
+		55B4EB5A4CCA7FC1944DF7B0CB18981A /* MLShareButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 215459B70D3F9B89B98CBAFE0233BBBE /* MLShareButton@3x.png */; };
+		5B81A6B7AE4099D912A64AF757958174 /* MLPlayButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B9B3EC5A114FA7A0082BE37891F934E /* MLPlayButton@2x.png */; };
 		5E58DBCB83406F8A78B2C696A28C52A8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC2AC58214E9F09A8E1A18A61819714B /* Foundation.framework */; };
-		5FE099573E73EE2262D1967D7544293E /* MLPlayButton.png in Resources */ = {isa = PBXBuildFile; fileRef = B625F016B56D826AA6070256B1AEA26A /* MLPlayButton.png */; };
-		6001C8038440B3F300BB960F52DDC516 /* ButtonConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D69B9E7368E4A5A95D6E02365D8FDEF /* ButtonConfig.swift */; };
-		614F9695EEEA685C2CA3B8C72A55FBEA /* MLVolumeButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DEBE9CCB914531594C1C17065BA4B51E /* MLVolumeButton@3x.png */; };
+		5FE099573E73EE2262D1967D7544293E /* MLPlayButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 5560A267CB631587B7B4720DBAC42637 /* MLPlayButton.png */; };
+		6001C8038440B3F300BB960F52DDC516 /* ButtonConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13A520A8FCCBF6844F8149B474E1B83 /* ButtonConfig.swift */; };
+		614F9695EEEA685C2CA3B8C72A55FBEA /* MLVolumeButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 65FEFC73BF288ABCECABC60B7466BA55 /* MLVolumeButton@3x.png */; };
 		656FC8301C582BFE6CCB8776F247A430 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D7DBE160FECE9BD9518DBE0281F491B /* MediaPlayer.framework */; };
-		663E60925A6A120DB596141687466F50 /* SwiftyJSON-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E443951239F47388C3F86679E6200235 /* SwiftyJSON-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		675CEDDF4173D2C8E27D5F525378399F /* WatermarkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5FCCF70B524ECF33CF4F4F9D8A6F315 /* WatermarkViewController.swift */; };
+		663E60925A6A120DB596141687466F50 /* SwiftyJSON-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A09D3F018E991E2624B3FD394FCA6D2 /* SwiftyJSON-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		675CEDDF4173D2C8E27D5F525378399F /* WatermarkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD81EAD5EC4D906F81E444E87819539 /* WatermarkViewController.swift */; };
 		706855942A8F64C339CEE5276F0EB726 /* Pods-Video PlayerTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2A04F24CE0ABF0476F8EE1B2FDE72903 /* Pods-Video PlayerTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7301A159197800409EAD199123907055 /* ToggleButtonConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DA5CC70A4EBCE2EFAD5FD10F0A188C2 /* ToggleButtonConfig.swift */; };
-		756DB82D966AA27D52C59A2ED4A7AD30 /* MobilePlayerControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1892E9DC5C4256D18E641D0AA1FD481 /* MobilePlayerControlsView.swift */; };
+		7301A159197800409EAD199123907055 /* ToggleButtonConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9DAA1144A32238C7BA803FE4FC0CF36 /* ToggleButtonConfig.swift */; };
+		756DB82D966AA27D52C59A2ED4A7AD30 /* MobilePlayerControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6733ADA344A17BD01BF72A51E5E47B6D /* MobilePlayerControlsView.swift */; };
 		75A8819656A1E85DFABE5E079FF17AA4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1140742F4248B4B759C9270770B83DA2 /* UIKit.framework */; };
 		77E809B9B2C9E52ACFFEF11EF26F98EB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC2AC58214E9F09A8E1A18A61819714B /* Foundation.framework */; };
-		7880DAD191DA3950F35F01B3AC3CDDC3 /* LabelConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00E932FBA22903F84790FCBBA357007 /* LabelConfig.swift */; };
-		7C5CB5A37FB77C7604599A8E3E9FB25D /* Bar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A2FBF1CF5D92C6CAFFC405CDBAB63C6 /* Bar.swift */; };
-		7DA9BD9B9312448D650E2E810D292D04 /* Slider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C6F2C743F7E9E8A58E6B93C3AA15CEF /* Slider.swift */; };
-		81430B85C79211442FC7577322264C1F /* ClosureSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 675C455A4AF3FF0EED344D68A1167669 /* ClosureSupport.swift */; };
-		838BEDFE8D7F9E25C30F1339FA180C2F /* MobilePlayer-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AA7E4FE16169BF713616D51EBE37AE1A /* MobilePlayer-dummy.m */; };
+		7880DAD191DA3950F35F01B3AC3CDDC3 /* LabelConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4988850A184DC75AB5E3BFBC189CBF5 /* LabelConfig.swift */; };
+		7C5CB5A37FB77C7604599A8E3E9FB25D /* Bar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028E4D43F865946A04361692A6B3E55C /* Bar.swift */; };
+		7DA9BD9B9312448D650E2E810D292D04 /* Slider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07994BEFBF3A7C5717E9EC77FAC5584 /* Slider.swift */; };
+		81430B85C79211442FC7577322264C1F /* ClosureSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15593E042F9C2D95E7B9D19D3F587DC6 /* ClosureSupport.swift */; };
+		838BEDFE8D7F9E25C30F1339FA180C2F /* MobilePlayer-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D5916B5C4C47146ADEAA77535E3B027 /* MobilePlayer-dummy.m */; };
 		8D01B4B76047CC78F568B4FC941DB800 /* Pods-Video Player-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A7F7556C1906A05AC4734F45EE8A1387 /* Pods-Video Player-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		92A20A89B19C5ADF6B46D785F0054D36 /* MLIncreaseVolume@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B609CA400E89536D4122F00CD0B9579A /* MLIncreaseVolume@3x.png */; };
+		92A20A89B19C5ADF6B46D785F0054D36 /* MLIncreaseVolume@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 41C8118A5147EBB42427040E1262DF1F /* MLIncreaseVolume@3x.png */; };
 		9443F758C8E5C3776D4D0F9EBDE0B035 /* Pods-Video PlayerUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B903BF53D99C70B4AB57E33B6E86E6E9 /* Pods-Video PlayerUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9A00BE733B1ACCBDDEE687EFF2040C53 /* WatermarkConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E80092FEC1CB73FB6432C902474E33C /* WatermarkConfig.swift */; };
-		A189C3762594F6A978204FDF98D9B456 /* MLIncreaseVolume@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D40F010B78C6E97DAFB4E501CCD7B9 /* MLIncreaseVolume@2x.png */; };
-		A3DB39E74AB9BF19BD22C1872ABCBA91 /* MLVolumeButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D7FA051A0DBE6DD398010E99EE82CD71 /* MLVolumeButton@2x.png */; };
-		A4BF55AE4CC9943E36AEA4ADFBE450D3 /* MobilePlayerConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 756880BBC36FB56DA2DB775C50A9817F /* MobilePlayerConfig.swift */; };
-		A5B05AA34EB02910D4F8A4F730F77FC4 /* ToggleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E037DDA43877FEAAA5D296DE68515B /* ToggleButton.swift */; };
-		A869DE826EB048F74DB2A604DBC07EAF /* UIColor+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5522C1092F27F03198BE8E4D13FE7B36 /* UIColor+Hex.swift */; };
-		A8CD32FE9DACA419A446997CFD14940B /* MLPauseButton.png in Resources */ = {isa = PBXBuildFile; fileRef = C0742D4B90F921068E5DA34ED92FB989 /* MLPauseButton.png */; };
+		9A00BE733B1ACCBDDEE687EFF2040C53 /* WatermarkConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499D1798CFA7DCAD3F47A4DE6DD48EFA /* WatermarkConfig.swift */; };
+		A189C3762594F6A978204FDF98D9B456 /* MLIncreaseVolume@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5A9AC6B91C5AF354D9314E29BE490A05 /* MLIncreaseVolume@2x.png */; };
+		A3DB39E74AB9BF19BD22C1872ABCBA91 /* MLVolumeButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7EDA959220AE7907B7FDEECD5A3185E7 /* MLVolumeButton@2x.png */; };
+		A4BF55AE4CC9943E36AEA4ADFBE450D3 /* MobilePlayerConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9C5FAC357AF33249CAF78FDF382D7D9 /* MobilePlayerConfig.swift */; };
+		A5B05AA34EB02910D4F8A4F730F77FC4 /* ToggleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17B44A72A95B7DE7BC93F46211D31E90 /* ToggleButton.swift */; };
+		A869DE826EB048F74DB2A604DBC07EAF /* UIColor+Hex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57471C6C7EE9079402656B581DDE1357 /* UIColor+Hex.swift */; };
+		A8CD32FE9DACA419A446997CFD14940B /* MLPauseButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F345EB750C03320CC280F9354A06543 /* MLPauseButton.png */; };
 		AB23E18FED7B53D93768691E7A0E3864 /* Pods-Video PlayerTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = ED2C36774401C2F5C76709C2C203A3E3 /* Pods-Video PlayerTests-dummy.m */; };
-		B6F0C80306E03E78C914AA2089134815 /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DAAF18C38FF7FC2454E0DB90E553458 /* Button.swift */; };
-		B85E4F8BDF598B0E8C576772EA3033F1 /* Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EE36DEEC5C4B04C9252EA80F47F363 /* Element.swift */; };
-		BA3DBB685A0C88B7B4D93D67EA4974D4 /* ElementConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = B700934D8B0D3B996663E41A07BECD16 /* ElementConfig.swift */; };
+		B6F0C80306E03E78C914AA2089134815 /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52882D0C9558D4758BF7D8A828207EED /* Button.swift */; };
+		B85E4F8BDF598B0E8C576772EA3033F1 /* Element.swift in Sources */ = {isa = PBXBuildFile; fileRef = F152FECF6649468807FE22E623EBC7B5 /* Element.swift */; };
+		BA3DBB685A0C88B7B4D93D67EA4974D4 /* ElementConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69BA3838FA25024DF8C67A72984660C /* ElementConfig.swift */; };
 		BD96DD9F1A199069534D7BFBD8B4A279 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC2AC58214E9F09A8E1A18A61819714B /* Foundation.framework */; };
-		C0ABF7BBE3C00F3A495C42F97DCE5DBF /* MLShareButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 91195FB94A77247B829925D5DCB374E6 /* MLShareButton@2x.png */; };
-		C1AEDCDEE58E37BF4E9514A584E5C521 /* UIImage+CocoaPods.swift in Sources */ = {isa = PBXBuildFile; fileRef = B447B888DD82C98C9EAE4857F5B78E92 /* UIImage+CocoaPods.swift */; };
-		C8C0768E32A939757E5CBB57D538DCDA /* MLShareButton.png in Resources */ = {isa = PBXBuildFile; fileRef = CD2F0EB193B1C16D86DB788287BA98D4 /* MLShareButton.png */; };
-		CD9D3758FB84DBB4E673EE3C62B87645 /* MLVolumeButton.png in Resources */ = {isa = PBXBuildFile; fileRef = B8A4C707049050FC80BF9CF852B997BD /* MLVolumeButton.png */; };
-		D18DE8F6063D5C690764BA8EE5C1BF72 /* MobilePlayerNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E811AD2B90129D709902049B3D26E2 /* MobilePlayerNotification.swift */; };
-		D629132067AC65FA26E56C802DAA6089 /* YoutubeParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47FD18E341F0AC2B2C32EB691910D66D /* YoutubeParser.swift */; };
-		D665EA8C16A17109A26826D7F2698221 /* MLCloseButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9866BD8464A08F15CCE66FA7065B9066 /* MLCloseButton@3x.png */; };
-		D738FF32EA670765FBBA5B50179522B2 /* MLCloseButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C1E509B58CFCB94AB95CAFDA804808AE /* MLCloseButton@2x.png */; };
-		DCA67B53ED8997BCB5681731A8359741 /* MLReduceVolume@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 68E7027EE83F8DED1F23EA6C5D53FB5B /* MLReduceVolume@2x.png */; };
+		C0ABF7BBE3C00F3A495C42F97DCE5DBF /* MLShareButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B820B0A3CB332B61B744CC47F025F19 /* MLShareButton@2x.png */; };
+		C1AEDCDEE58E37BF4E9514A584E5C521 /* UIImage+CocoaPods.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A756EAB82F57E10B1CDA5AF14B783D /* UIImage+CocoaPods.swift */; };
+		C8C0768E32A939757E5CBB57D538DCDA /* MLShareButton.png in Resources */ = {isa = PBXBuildFile; fileRef = BE6208AECA46A2F5CB447D41E7559D39 /* MLShareButton.png */; };
+		CD9D3758FB84DBB4E673EE3C62B87645 /* MLVolumeButton.png in Resources */ = {isa = PBXBuildFile; fileRef = D71C4AC75BCCF882A26153483CF27212 /* MLVolumeButton.png */; };
+		D18DE8F6063D5C690764BA8EE5C1BF72 /* MobilePlayerNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DAD9DEF48726207F022B23FB7E6D998 /* MobilePlayerNotification.swift */; };
+		D629132067AC65FA26E56C802DAA6089 /* YoutubeParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = B634D05DDC1CFCF2016405BE1A57E2F5 /* YoutubeParser.swift */; };
+		D665EA8C16A17109A26826D7F2698221 /* MLCloseButton@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9054BAECA3A3ECF527D0ADF30DF3EE /* MLCloseButton@3x.png */; };
+		D738FF32EA670765FBBA5B50179522B2 /* MLCloseButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B1566DEBE51470F0384F652F5975CD16 /* MLCloseButton@2x.png */; };
+		DCA67B53ED8997BCB5681731A8359741 /* MLReduceVolume@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7AB9CE877D4142DB411F82B40A6D126B /* MLReduceVolume@2x.png */; };
 		DCEFB08A5D2620249B817A47BCA6F6ED /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC2AC58214E9F09A8E1A18A61819714B /* Foundation.framework */; };
-		E711716C26638CDCFC8F010D75EFBEBB /* MobilePlayer-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 493CF6366F65C8DA3EC049D8FB866617 /* MobilePlayer-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E711716C26638CDCFC8F010D75EFBEBB /* MobilePlayer-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FEA5A36B55DD3DF5A7377A527A999809 /* MobilePlayer-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EB9056FEFF132161C95DA0E2CEAA20A6 /* Pods-Video Player-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3041EB4C9CAEB7CFAAE821D4FA757AEA /* Pods-Video Player-dummy.m */; };
-		EDBB4ABE6A2D80E35C2DBF03CFA71102 /* VolumeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80946E1DB48F7EDAFA4C386962345CFF /* VolumeView.swift */; };
-		EDDBE41B239536B6472AB8AD272551C7 /* SliderConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F40DF7F395120595D17559540908272 /* SliderConfig.swift */; };
-		FB4D81940AD75BBA8EB28E786E935314 /* MobilePlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53663960E236F65AA599D264624CB4A8 /* MobilePlayerViewController.swift */; };
+		EDBB4ABE6A2D80E35C2DBF03CFA71102 /* VolumeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E4CC3ABCFAB0B4879692C7B27D7E1CF /* VolumeView.swift */; };
+		EDDBE41B239536B6472AB8AD272551C7 /* SliderConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE021F2FF56745C04A69710E8082CC94 /* SliderConfig.swift */; };
+		FB4D81940AD75BBA8EB28E786E935314 /* MobilePlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02625CEC2B2903BF1E9BCFD59746F43D /* MobilePlayerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -100,114 +100,193 @@
 
 /* Begin PBXFileReference section */
 		01BD8620F768993EF9A47BBCD5CCC764 /* Pods-Video PlayerTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Video PlayerTests-frameworks.sh"; sourceTree = "<group>"; };
-		01F0B0098E7661E686051AB6BE600E19 /* StateHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StateHelper.swift; path = MobilePlayer/Helpers/StateHelper.swift; sourceTree = "<group>"; };
-		050B6D9AAF9C3DB004BE62E3BAE067EF /* GoogleInterchangeUtilities.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleInterchangeUtilities.framework; path = Frameworks/GoogleInterchangeUtilities.framework; sourceTree = "<group>"; };
-		08A21A11D6AC4641FAAF96AED9E02679 /* MLIncreaseVolume.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLIncreaseVolume.png; path = MobilePlayer/Resources/MLIncreaseVolume.png; sourceTree = "<group>"; };
+		02625CEC2B2903BF1E9BCFD59746F43D /* MobilePlayerViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerViewController.swift; path = MobilePlayer/MobilePlayerViewController.swift; sourceTree = "<group>"; };
+		028E4D43F865946A04361692A6B3E55C /* Bar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Bar.swift; path = MobilePlayer/Views/Bar.swift; sourceTree = "<group>"; };
+		0362DA9C408BC8B65BBF338079E476CE /* GeoService.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GeoService.h; path = SDK/ios/backendless/include/GeoService.h; sourceTree = "<group>"; };
+		04034F1758EDBE8A6DED708DC15EAD28 /* BinaryStream.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BinaryStream.h; path = SDK/ios/CommLibiOS/include/BinaryStream.h; sourceTree = "<group>"; };
+		05085817D8B2BA3A8076E47A668E727A /* IPendingServiceCallback.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IPendingServiceCallback.h; path = SDK/ios/CommLibiOS/include/IPendingServiceCallback.h; sourceTree = "<group>"; };
+		062827D3E7020B928695D5945792E405 /* MLReduceVolume@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLReduceVolume@3x.png"; path = "MobilePlayer/Resources/MLReduceVolume@3x.png"; sourceTree = "<group>"; };
+		0673D3120F231FFA5D62CDCF7CF9E7E9 /* MobilePlayer-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MobilePlayer-prefix.pch"; sourceTree = "<group>"; };
+		071F5D54D549570CDDD9ED2BD817209C /* CustomService.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CustomService.h; path = SDK/ios/backendless/include/CustomService.h; sourceTree = "<group>"; };
+		07BAB7EA3572476A087C45B44518DA33 /* BackendlessFile.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BackendlessFile.h; path = SDK/ios/backendless/include/BackendlessFile.h; sourceTree = "<group>"; };
+		08141E2BBF996AF7B006D7E4D81EF466 /* BackendlessGeoQuery.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BackendlessGeoQuery.h; path = SDK/ios/backendless/include/BackendlessGeoQuery.h; sourceTree = "<group>"; };
 		0901F7A6C16F8F2B236DFAFA06D92435 /* Pods-Video PlayerUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Video PlayerUITests-resources.sh"; sourceTree = "<group>"; };
+		090C8500B3FB506270BE6D488CA20A43 /* Message.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Message.h; path = SDK/ios/backendless/include/Message.h; sourceTree = "<group>"; };
 		0D7DBE160FECE9BD9518DBE0281F491B /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/MediaPlayer.framework; sourceTree = DEVELOPER_DIR; };
-		0E80092FEC1CB73FB6432C902474E33C /* WatermarkConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WatermarkConfig.swift; path = MobilePlayer/Config/WatermarkConfig.swift; sourceTree = "<group>"; };
+		1131B318CEE68C4DF98F379AA505DC5B /* BinaryCodec.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BinaryCodec.h; path = SDK/ios/CommLibiOS/include/BinaryCodec.h; sourceTree = "<group>"; };
 		1140742F4248B4B759C9270770B83DA2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		14CF3A95ED0955C5A77F04FCA0A61C44 /* BodyParts.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BodyParts.h; path = SDK/ios/backendless/include/BodyParts.h; sourceTree = "<group>"; };
+		1514E7DD59115EFF8EA4DE1651F4DABF /* SubscriptionOptions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SubscriptionOptions.h; path = SDK/ios/backendless/include/SubscriptionOptions.h; sourceTree = "<group>"; };
+		15593E042F9C2D95E7B9D19D3F587DC6 /* ClosureSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ClosureSupport.swift; path = MobilePlayer/Extensions/ClosureSupport.swift; sourceTree = "<group>"; };
+		16CABE886F8128BA54693F94E5843E2C /* MLPlayButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPlayButton@3x.png"; path = "MobilePlayer/Resources/MLPlayButton@3x.png"; sourceTree = "<group>"; };
+		173F02317402BA5D9687169918A997EC /* BackendlessCollection.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BackendlessCollection.h; path = SDK/ios/backendless/include/BackendlessCollection.h; sourceTree = "<group>"; };
+		17B44A72A95B7DE7BC93F46211D31E90 /* ToggleButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ToggleButton.swift; path = MobilePlayer/Views/ToggleButton.swift; sourceTree = "<group>"; };
 		18A4DA882036647C0CE11613E6623310 /* Pods-Video PlayerUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Video PlayerUITests.release.xcconfig"; sourceTree = "<group>"; };
-		1C6F2C743F7E9E8A58E6B93C3AA15CEF /* Slider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Slider.swift; path = MobilePlayer/Views/Slider.swift; sourceTree = "<group>"; };
-		1DA5CC70A4EBCE2EFAD5FD10F0A188C2 /* ToggleButtonConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ToggleButtonConfig.swift; path = MobilePlayer/Config/ToggleButtonConfig.swift; sourceTree = "<group>"; };
+		215459B70D3F9B89B98CBAFE0233BBBE /* MLShareButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLShareButton@3x.png"; path = "MobilePlayer/Resources/MLShareButton@3x.png"; sourceTree = "<group>"; };
+		22090A4F9FEA36DF643EBDA914A70AEB /* UserProperty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = UserProperty.h; path = SDK/ios/backendless/include/UserProperty.h; sourceTree = "<group>"; };
 		2A04F24CE0ABF0476F8EE1B2FDE72903 /* Pods-Video PlayerTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Video PlayerTests-umbrella.h"; sourceTree = "<group>"; };
+		2B4DDBFE47F86E00E388F2BA082C7446 /* Logging.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Logging.h; path = SDK/ios/backendless/include/Logging.h; sourceTree = "<group>"; };
+		2B5E775FE155D13C3BAB241631B16D03 /* IAtomicCounters.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IAtomicCounters.h; path = SDK/ios/backendless/include/IAtomicCounters.h; sourceTree = "<group>"; };
+		2D36A71D9C3AF7EEC3E5A7A0D124ADC7 /* StateHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StateHelper.swift; path = MobilePlayer/Helpers/StateHelper.swift; sourceTree = "<group>"; };
 		2E0BA64A21B7610E94B338B55459E6AD /* Pods-Video PlayerUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Video PlayerUITests-acknowledgements.plist"; sourceTree = "<group>"; };
 		3041EB4C9CAEB7CFAAE821D4FA757AEA /* Pods-Video Player-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Video Player-dummy.m"; sourceTree = "<group>"; };
-		36277B6BED0413D92D90B6728C4E23B2 /* FirebaseAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseAnalytics.framework; path = Frameworks/frameworks/FirebaseAnalytics.framework; sourceTree = "<group>"; };
-		3C4DB6DF3DBE4C85AF562A21EB2327CC /* SwiftyJSON.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftyJSON.xcconfig; sourceTree = "<group>"; };
+		34D72F41CA5D86BD4052A913A541D377 /* DataPermission.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DataPermission.h; path = SDK/ios/backendless/include/DataPermission.h; sourceTree = "<group>"; };
+		376782D91DF84A5FB953BCA064E89DDB /* GoogleNetworkingUtilities.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleNetworkingUtilities.framework; path = Frameworks/GoogleNetworkingUtilities.framework; sourceTree = "<group>"; };
+		3887DDE303FD023FD22B230D68AF8A23 /* AMFSerializer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AMFSerializer.h; path = SDK/ios/CommLibiOS/include/AMFSerializer.h; sourceTree = "<group>"; };
+		3A09D3F018E991E2624B3FD394FCA6D2 /* SwiftyJSON-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-umbrella.h"; sourceTree = "<group>"; };
+		3F0552F4B9279ED607939238973DAF05 /* Events.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Events.h; path = SDK/ios/backendless/include/Events.h; sourceTree = "<group>"; };
+		3F9054BAECA3A3ECF527D0ADF30DF3EE /* MLCloseButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLCloseButton@3x.png"; path = "MobilePlayer/Resources/MLCloseButton@3x.png"; sourceTree = "<group>"; };
+		4111C6AA8A47A32F112B14B02927325E /* MLPauseButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPauseButton@2x.png"; path = "MobilePlayer/Resources/MLPauseButton@2x.png"; sourceTree = "<group>"; };
 		41C6D1672AE827ACDBCA87D9FE70A2A7 /* Pods-Video PlayerUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Video PlayerUITests-dummy.m"; sourceTree = "<group>"; };
+		41C8118A5147EBB42427040E1262DF1F /* MLIncreaseVolume@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLIncreaseVolume@3x.png"; path = "MobilePlayer/Resources/MLIncreaseVolume@3x.png"; sourceTree = "<group>"; };
 		42457F15C64177F2F89431B48860B98B /* Pods_Video_PlayerUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Video_PlayerUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		45B87EBCB7F5EE9C95FBBF4448551C26 /* MLCloseButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLCloseButton.png; path = MobilePlayer/Resources/MLCloseButton.png; sourceTree = "<group>"; };
-		4673448A356E2FFC3B1AC926C4F0C3EA /* SwiftyJSON-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftyJSON-dummy.m"; sourceTree = "<group>"; };
-		47FD18E341F0AC2B2C32EB691910D66D /* YoutubeParser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = YoutubeParser.swift; path = MobilePlayer/Parsers/YoutubeParser.swift; sourceTree = "<group>"; };
-		493CF6366F65C8DA3EC049D8FB866617 /* MobilePlayer-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MobilePlayer-umbrella.h"; sourceTree = "<group>"; };
-		4D69B9E7368E4A5A95D6E02365D8FDEF /* ButtonConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ButtonConfig.swift; path = MobilePlayer/Config/ButtonConfig.swift; sourceTree = "<group>"; };
-		4E3B490A22CB69E9B3BE062430CEFF99 /* MobilePlayerOverlayViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerOverlayViewController.swift; path = MobilePlayer/MobilePlayerOverlayViewController.swift; sourceTree = "<group>"; };
-		4E431D83B1C2170F664157B7F151AAED /* MLPlayButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPlayButton@2x.png"; path = "MobilePlayer/Resources/MLPlayButton@2x.png"; sourceTree = "<group>"; };
-		53663960E236F65AA599D264624CB4A8 /* MobilePlayerViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerViewController.swift; path = MobilePlayer/MobilePlayerViewController.swift; sourceTree = "<group>"; };
+		42C7FECA0BB61976BC067A2BB598A98E /* AtomicCounters.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AtomicCounters.h; path = SDK/ios/backendless/include/AtomicCounters.h; sourceTree = "<group>"; };
+		438E9D44210A17D4064A074D23402F20 /* SwiftyJSON-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftyJSON-dummy.m"; sourceTree = "<group>"; };
+		44AD04DAFCDB0BE584FB380B9419E058 /* IServiceCall.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IServiceCall.h; path = SDK/ios/CommLibiOS/include/IServiceCall.h; sourceTree = "<group>"; };
+		499D1798CFA7DCAD3F47A4DE6DD48EFA /* WatermarkConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WatermarkConfig.swift; path = MobilePlayer/Config/WatermarkConfig.swift; sourceTree = "<group>"; };
+		4A1CE2D96D18B28447EA852F52FFD8D9 /* WeborbClient.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = WeborbClient.h; path = SDK/ios/CommLibiOS/include/WeborbClient.h; sourceTree = "<group>"; };
+		4D5916B5C4C47146ADEAA77535E3B027 /* MobilePlayer-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MobilePlayer-dummy.m"; sourceTree = "<group>"; };
+		4DD81EAD5EC4D906F81E444E87819539 /* WatermarkViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WatermarkViewController.swift; path = MobilePlayer/WatermarkViewController.swift; sourceTree = "<group>"; };
+		4DE4529CE0C501AD4448EB3A796F8120 /* SwiftyJSON.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SwiftyJSON.modulemap; sourceTree = "<group>"; };
+		4F0254C892761944266D54C2D88DEF08 /* MLReduceVolume.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLReduceVolume.png; path = MobilePlayer/Resources/MLReduceVolume.png; sourceTree = "<group>"; };
+		4FF810BCF249CE55C1B7D0FC4BF95B4B /* BarConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BarConfig.swift; path = MobilePlayer/Config/BarConfig.swift; sourceTree = "<group>"; };
+		503A33CEAE279552A30B3E131125F8C3 /* Logger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Logger.h; path = SDK/ios/backendless/include/Logger.h; sourceTree = "<group>"; };
+		52882D0C9558D4758BF7D8A828207EED /* Button.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Button.swift; path = MobilePlayer/Views/Button.swift; sourceTree = "<group>"; };
+		528C71C460CC560B1E3028A264665614 /* FirebaseStorage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseStorage.framework; path = Frameworks/FirebaseStorage.framework; sourceTree = "<group>"; };
+		53C2ED1ADE96292E08B3AC008891CB14 /* IPresenceListener.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IPresenceListener.h; path = SDK/ios/backendless/include/IPresenceListener.h; sourceTree = "<group>"; };
 		53E68595B1FE362466A091498B02C6CD /* Pods-Video Player-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Video Player-frameworks.sh"; sourceTree = "<group>"; };
 		54DF695361BC6921BFC0EF81F8F9F754 /* Pods-Video Player-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Video Player-resources.sh"; sourceTree = "<group>"; };
-		5522C1092F27F03198BE8E4D13FE7B36 /* UIColor+Hex.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIColor+Hex.swift"; path = "MobilePlayer/Extensions/UIColor+Hex.swift"; sourceTree = "<group>"; };
-		5A2FBF1CF5D92C6CAFFC405CDBAB63C6 /* Bar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Bar.swift; path = MobilePlayer/Views/Bar.swift; sourceTree = "<group>"; };
-		5B7455EBA0C19E457F7D31F971FBE39D /* Firebase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Firebase.h; path = Headers/Firebase.h; sourceTree = "<group>"; };
+		5560A267CB631587B7B4720DBAC42637 /* MLPlayButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLPlayButton.png; path = MobilePlayer/Resources/MLPlayButton.png; sourceTree = "<group>"; };
+		5615ED76C6E311224B9084081EDECB2E /* FirebaseAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseAnalytics.framework; path = Frameworks/frameworks/FirebaseAnalytics.framework; sourceTree = "<group>"; };
+		569E6605E9A35F19C512E4817296F295 /* MLCloseButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLCloseButton.png; path = MobilePlayer/Resources/MLCloseButton.png; sourceTree = "<group>"; };
+		57471C6C7EE9079402656B581DDE1357 /* UIColor+Hex.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIColor+Hex.swift"; path = "MobilePlayer/Extensions/UIColor+Hex.swift"; sourceTree = "<group>"; };
+		5A9AC6B91C5AF354D9314E29BE490A05 /* MLIncreaseVolume@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLIncreaseVolume@2x.png"; path = "MobilePlayer/Resources/MLIncreaseVolume@2x.png"; sourceTree = "<group>"; };
+		5AB911690D8521379857C2B0313C4F39 /* IDataStore.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IDataStore.h; path = SDK/ios/backendless/include/IDataStore.h; sourceTree = "<group>"; };
+		5B7286C28367677BC05BBFA519A542E6 /* MessagingService.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MessagingService.h; path = SDK/ios/backendless/include/MessagingService.h; sourceTree = "<group>"; };
+		5CE6247003848F30D34982AB6B6CC386 /* UserService.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = UserService.h; path = SDK/ios/backendless/include/UserService.h; sourceTree = "<group>"; };
 		5D5B8B318BC554A7453FFB5AF0ABDFBB /* Pods-Video PlayerTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Video PlayerTests.modulemap"; sourceTree = "<group>"; };
-		605B9743F2AFD6A64FAABEDB8345DB3A /* SwiftyJSON-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-prefix.pch"; sourceTree = "<group>"; };
-		620BBAA14E7C73D39A9362D7E9676FA4 /* SwiftyJSON.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SwiftyJSON.modulemap; sourceTree = "<group>"; };
-		63E811AD2B90129D709902049B3D26E2 /* MobilePlayerNotification.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerNotification.swift; path = MobilePlayer/MobilePlayerNotification.swift; sourceTree = "<group>"; };
+		5DAD9DEF48726207F022B23FB7E6D998 /* MobilePlayerNotification.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerNotification.swift; path = MobilePlayer/MobilePlayerNotification.swift; sourceTree = "<group>"; };
+		6028FD73D411716F9C0228A282644C4C /* BackendlessDataQuery.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BackendlessDataQuery.h; path = SDK/ios/backendless/include/BackendlessDataQuery.h; sourceTree = "<group>"; };
+		64A4FB7E288973EEB4F49D9E53921E6F /* SwiftyJSON-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-prefix.pch"; sourceTree = "<group>"; };
+		64FFA6E4A59966060A216180790ECE75 /* SwiftyJSON.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftyJSON.xcconfig; sourceTree = "<group>"; };
+		65FEFC73BF288ABCECABC60B7466BA55 /* MLVolumeButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLVolumeButton@3x.png"; path = "MobilePlayer/Resources/MLVolumeButton@3x.png"; sourceTree = "<group>"; };
+		66920E8C2CB909CE77322DF74BD91F80 /* DeviceRegistration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DeviceRegistration.h; path = SDK/ios/backendless/include/DeviceRegistration.h; sourceTree = "<group>"; };
 		66A41DDC2C9C4B573E6AF599D91680D9 /* Pods-Video Player.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Video Player.modulemap"; sourceTree = "<group>"; };
-		675C455A4AF3FF0EED344D68A1167669 /* ClosureSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ClosureSupport.swift; path = MobilePlayer/Extensions/ClosureSupport.swift; sourceTree = "<group>"; };
+		67257655BA25CCEDA22CA904D47C5BA8 /* IClientSharedObjectDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IClientSharedObjectDelegate.h; path = SDK/ios/CommLibiOS/include/IClientSharedObjectDelegate.h; sourceTree = "<group>"; };
+		6733ADA344A17BD01BF72A51E5E47B6D /* MobilePlayerControlsView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerControlsView.swift; path = MobilePlayer/Views/MobilePlayerControlsView.swift; sourceTree = "<group>"; };
 		67A9F746255F9D43404F85124B399B81 /* Pods-Video PlayerTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Video PlayerTests.release.xcconfig"; sourceTree = "<group>"; };
-		67F0908378DC05680F114F2DD6139289 /* FirebaseStorage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseStorage.framework; path = Frameworks/FirebaseStorage.framework; sourceTree = "<group>"; };
-		68D0E9278ED41DF458F98BB1B8B3758F /* MLPauseButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPauseButton@3x.png"; path = "MobilePlayer/Resources/MLPauseButton@3x.png"; sourceTree = "<group>"; };
-		68E7027EE83F8DED1F23EA6C5D53FB5B /* MLReduceVolume@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLReduceVolume@2x.png"; path = "MobilePlayer/Resources/MLReduceVolume@2x.png"; sourceTree = "<group>"; };
-		6920E05A6F4DDDD074E4D41FEB8E6D0A /* SwiftyJSON.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = Source/SwiftyJSON.swift; sourceTree = "<group>"; };
+		684CD53017645E54D212F8DB6E645836 /* Firebase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Firebase.h; path = Headers/Firebase.h; sourceTree = "<group>"; };
+		6B2A0720B9D7B0B8C99AB35D4253A3A6 /* FlashorbBinaryReader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FlashorbBinaryReader.h; path = SDK/ios/CommLibiOS/include/FlashorbBinaryReader.h; sourceTree = "<group>"; };
+		6BB585C42C0F8B5755D2CB7F696C635F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6D29468C81EC5DD2BA7BE27DBF4AC4ED /* BETableView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BETableView.h; path = SDK/ios/backendless/include/BETableView.h; sourceTree = "<group>"; };
 		6FC78A3D5A4A1BAE0CF440E7438AFF71 /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		72E037DDA43877FEAAA5D296DE68515B /* ToggleButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ToggleButton.swift; path = MobilePlayer/Views/ToggleButton.swift; sourceTree = "<group>"; };
+		7235D82CD0C3CB41D08E67AD6F2F30A4 /* ISharedObjectListener.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ISharedObjectListener.h; path = SDK/ios/CommLibiOS/include/ISharedObjectListener.h; sourceTree = "<group>"; };
 		73577304AED3181F1C1D95676014162D /* MobilePlayer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MobilePlayer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		756880BBC36FB56DA2DB775C50A9817F /* MobilePlayerConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerConfig.swift; path = MobilePlayer/Config/MobilePlayerConfig.swift; sourceTree = "<group>"; };
-		7DAAF18C38FF7FC2454E0DB90E553458 /* Button.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Button.swift; path = MobilePlayer/Views/Button.swift; sourceTree = "<group>"; };
-		7F40DF7F395120595D17559540908272 /* SliderConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SliderConfig.swift; path = MobilePlayer/Config/SliderConfig.swift; sourceTree = "<group>"; };
-		80946E1DB48F7EDAFA4C386962345CFF /* VolumeView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VolumeView.swift; path = MobilePlayer/Views/VolumeView.swift; sourceTree = "<group>"; };
-		81381746FF84F71436384090E10522F8 /* Label.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Label.swift; path = MobilePlayer/Views/Label.swift; sourceTree = "<group>"; };
+		739F6173FF052AFB2CC67C55D9D393C1 /* AtomicCountersFactory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AtomicCountersFactory.h; path = SDK/ios/backendless/include/AtomicCountersFactory.h; sourceTree = "<group>"; };
+		75E791DA66D8A600BCCFB4325544943D /* CacheService.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CacheService.h; path = SDK/ios/backendless/include/CacheService.h; sourceTree = "<group>"; };
+		7AB9CE877D4142DB411F82B40A6D126B /* MLReduceVolume@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLReduceVolume@2x.png"; path = "MobilePlayer/Resources/MLReduceVolume@2x.png"; sourceTree = "<group>"; };
+		7B9B3EC5A114FA7A0082BE37891F934E /* MLPlayButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPlayButton@2x.png"; path = "MobilePlayer/Resources/MLPlayButton@2x.png"; sourceTree = "<group>"; };
+		7DFC6ABC125BDA6B86E9CF2ED6BAB254 /* IAttributeStore.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IAttributeStore.h; path = SDK/ios/CommLibiOS/include/IAttributeStore.h; sourceTree = "<group>"; };
+		7E4CC3ABCFAB0B4879692C7B27D7E1CF /* VolumeView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = VolumeView.swift; path = MobilePlayer/Views/VolumeView.swift; sourceTree = "<group>"; };
+		7EDA959220AE7907B7FDEECD5A3185E7 /* MLVolumeButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLVolumeButton@2x.png"; path = "MobilePlayer/Resources/MLVolumeButton@2x.png"; sourceTree = "<group>"; };
+		7F73A4F1AEC02B806468CCA405373374 /* ResourceBundle-MobilePlayer-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-MobilePlayer-Info.plist"; sourceTree = "<group>"; };
+		7FCF574DCAA4078430DEDA31B989DA14 /* BackendlessUser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BackendlessUser.h; path = SDK/ios/backendless/include/BackendlessUser.h; sourceTree = "<group>"; };
+		800D148366158B08245A9F16A509A249 /* GeoPoint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GeoPoint.h; path = SDK/ios/backendless/include/GeoPoint.h; sourceTree = "<group>"; };
+		8048F9C948C22FAC025CC070550AB227 /* Backendless-With-Media-Bridging-Header.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Backendless-With-Media-Bridging-Header.h"; path = "SDK/ios/backendless/include/Backendless-With-Media-Bridging-Header.h"; sourceTree = "<group>"; };
+		80FB2F9C85D410AAB98F71FE77F64647 /* Responder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Responder.h; path = SDK/ios/CommLibiOS/include/Responder.h; sourceTree = "<group>"; };
+		814528E5DD3BE3B7295936D2DD49BDD7 /* PublishOptions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PublishOptions.h; path = SDK/ios/backendless/include/PublishOptions.h; sourceTree = "<group>"; };
 		81DD5EC0A9E96B67B21400B8F966F9DF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		86E104EC6D06280F4064E9ADC0473424 /* MobilePlayer.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = MobilePlayer.modulemap; sourceTree = "<group>"; };
 		88C471B6F8EFAEBD2158E83DE8BAF1E6 /* Pods-Video PlayerUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Video PlayerUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		8A28508349D62C136B6EF5C0BAA093A2 /* GeoCluster.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GeoCluster.h; path = SDK/ios/backendless/include/GeoCluster.h; sourceTree = "<group>"; };
 		8B1648CA5C784F67DF8B1650F1173807 /* Pods-Video Player-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Video Player-acknowledgements.markdown"; sourceTree = "<group>"; };
+		8CAB133AF598C647B466005CD48BFD7A /* ObjectProperty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ObjectProperty.h; path = SDK/ios/backendless/include/ObjectProperty.h; sourceTree = "<group>"; };
+		8F345EB750C03320CC280F9354A06543 /* MLPauseButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLPauseButton.png; path = MobilePlayer/Resources/MLPauseButton.png; sourceTree = "<group>"; };
+		8F59396143F88F8455701D90FA9ECF96 /* FileService.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FileService.h; path = SDK/ios/backendless/include/FileService.h; sourceTree = "<group>"; };
+		8F6F5BED4C7B5E95B878A960BA4AA086 /* Backendless.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Backendless.h; path = SDK/ios/backendless/include/Backendless.h; sourceTree = "<group>"; };
 		8FD7E7C13F89DDA74280F0EF2F52F0F6 /* Pods-Video PlayerTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Video PlayerTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		90BDB3F57DF01C83D6D7E60FFB0480F2 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		91195FB94A77247B829925D5DCB374E6 /* MLShareButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLShareButton@2x.png"; path = "MobilePlayer/Resources/MLShareButton@2x.png"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		95A6ADBCFCBFE628EA62BE990C887A34 /* MLPauseButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPauseButton@2x.png"; path = "MobilePlayer/Resources/MLPauseButton@2x.png"; sourceTree = "<group>"; };
+		93E3C22AFBF148B2E78F23B21C3FFF3B /* DeliveryOptions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DeliveryOptions.h; path = SDK/ios/backendless/include/DeliveryOptions.h; sourceTree = "<group>"; };
+		95D7C1AF7CE0ECB8BC6467CC88B53158 /* BEAnnotation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BEAnnotation.h; path = SDK/ios/backendless/include/BEAnnotation.h; sourceTree = "<group>"; };
+		96083D13488B40FFE2D2BB943507866E /* MobilePlayer.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MobilePlayer.xcconfig; sourceTree = "<group>"; };
 		963AA39BC62D743866CCC7F9662576B7 /* Pods-Video PlayerUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Video PlayerUITests-frameworks.sh"; sourceTree = "<group>"; };
-		986677F70D3C60D502CDDAA8D16A254D /* MobilePlayer.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MobilePlayer.xcconfig; sourceTree = "<group>"; };
-		9866BD8464A08F15CCE66FA7065B9066 /* MLCloseButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLCloseButton@3x.png"; path = "MobilePlayer/Resources/MLCloseButton@3x.png"; sourceTree = "<group>"; };
+		964A19891F39DBA6AB16D84BF00DB521 /* IPersistable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IPersistable.h; path = SDK/ios/CommLibiOS/include/IPersistable.h; sourceTree = "<group>"; };
+		96ABF70BFB5ECE2C1C1A3569213ACDD0 /* Types.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Types.h; path = SDK/ios/CommLibiOS/include/Types.h; sourceTree = "<group>"; };
 		98F940D149DC3C682F73B9FDD74BDE0C /* Pods-Video PlayerTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Video PlayerTests-acknowledgements.plist"; sourceTree = "<group>"; };
-		A1892E9DC5C4256D18E641D0AA1FD481 /* MobilePlayerControlsView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerControlsView.swift; path = MobilePlayer/Views/MobilePlayerControlsView.swift; sourceTree = "<group>"; };
-		A6EA9A5578866A4A73777B7EF68512CA /* GoogleSymbolUtilities.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleSymbolUtilities.framework; path = Frameworks/GoogleSymbolUtilities.framework; sourceTree = "<group>"; };
+		9B820B0A3CB332B61B744CC47F025F19 /* MLShareButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLShareButton@2x.png"; path = "MobilePlayer/Resources/MLShareButton@2x.png"; sourceTree = "<group>"; };
+		9D108C46148914650E2C8EA5EC20405F /* ICallback.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ICallback.h; path = SDK/ios/backendless/include/ICallback.h; sourceTree = "<group>"; };
+		9DC4917EE222BF23A9E97B5E7D3753BF /* BEMapView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BEMapView.h; path = SDK/ios/backendless/include/BEMapView.h; sourceTree = "<group>"; };
+		A07994BEFBF3A7C5717E9EC77FAC5584 /* Slider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Slider.swift; path = MobilePlayer/Views/Slider.swift; sourceTree = "<group>"; };
+		A0AF3E41A26B8391A9D536327FD9F9FD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0D799DEE798794DFD78CD1C0973487E /* MLIncreaseVolume.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLIncreaseVolume.png; path = MobilePlayer/Resources/MLIncreaseVolume.png; sourceTree = "<group>"; };
+		A4BDE1A38EE27946218A90C3DF68ABED /* HashMap.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HashMap.h; path = SDK/ios/backendless/include/HashMap.h; sourceTree = "<group>"; };
+		A7500C6F1989C0FDC078005256AE692B /* RTMPClient.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RTMPClient.h; path = SDK/ios/CommLibiOS/include/RTMPClient.h; sourceTree = "<group>"; };
 		A7F7556C1906A05AC4734F45EE8A1387 /* Pods-Video Player-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Video Player-umbrella.h"; sourceTree = "<group>"; };
-		A9258A10972EB3C8CADC677D1B229110 /* GoogleUtilities.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleUtilities.framework; path = Frameworks/GoogleUtilities.framework; sourceTree = "<group>"; };
-		AA7E4FE16169BF713616D51EBE37AE1A /* MobilePlayer-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MobilePlayer-dummy.m"; sourceTree = "<group>"; };
-		AAE24CB2B20BF94FF1F2C0AC2AEDCA33 /* MLReduceVolume@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLReduceVolume@3x.png"; path = "MobilePlayer/Resources/MLReduceVolume@3x.png"; sourceTree = "<group>"; };
-		B1627AA5954389721233BC1528FAB0A5 /* FirebaseInstanceID.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseInstanceID.framework; path = Frameworks/FirebaseInstanceID.framework; sourceTree = "<group>"; };
-		B447B888DD82C98C9EAE4857F5B78E92 /* UIImage+CocoaPods.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIImage+CocoaPods.swift"; path = "MobilePlayer/Extensions/UIImage+CocoaPods.swift"; sourceTree = "<group>"; };
+		A84133342B5BE8AA7A3D8630D420AFB8 /* BackendlessBeacon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BackendlessBeacon.h; path = SDK/ios/backendless/include/BackendlessBeacon.h; sourceTree = "<group>"; };
+		A9C5FAC357AF33249CAF78FDF382D7D9 /* MobilePlayerConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerConfig.swift; path = MobilePlayer/Config/MobilePlayerConfig.swift; sourceTree = "<group>"; };
+		A9DAA1144A32238C7BA803FE4FC0CF36 /* ToggleButtonConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ToggleButtonConfig.swift; path = MobilePlayer/Config/ToggleButtonConfig.swift; sourceTree = "<group>"; };
+		AF75431E5FC5867578E6B111318897B0 /* QueryOptions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = QueryOptions.h; path = SDK/ios/backendless/include/QueryOptions.h; sourceTree = "<group>"; };
+		B1566DEBE51470F0384F652F5975CD16 /* MLCloseButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLCloseButton@2x.png"; path = "MobilePlayer/Resources/MLCloseButton@2x.png"; sourceTree = "<group>"; };
+		B2C2E14D06567AE1E94C7FF8BA61B479 /* Presence.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Presence.h; path = SDK/ios/backendless/include/Presence.h; sourceTree = "<group>"; };
 		B48C978F3B77FCC1782EBFE04EBA932F /* Pods-Video Player.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Video Player.release.xcconfig"; sourceTree = "<group>"; };
-		B4D40F010B78C6E97DAFB4E501CCD7B9 /* MLIncreaseVolume@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLIncreaseVolume@2x.png"; path = "MobilePlayer/Resources/MLIncreaseVolume@2x.png"; sourceTree = "<group>"; };
-		B5D7E9287604EF606E3BD3D56B08DDE2 /* ResourceBundle-MobilePlayer-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-MobilePlayer-Info.plist"; sourceTree = "<group>"; };
-		B609CA400E89536D4122F00CD0B9579A /* MLIncreaseVolume@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLIncreaseVolume@3x.png"; path = "MobilePlayer/Resources/MLIncreaseVolume@3x.png"; sourceTree = "<group>"; };
-		B625F016B56D826AA6070256B1AEA26A /* MLPlayButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLPlayButton.png; path = MobilePlayer/Resources/MLPlayButton.png; sourceTree = "<group>"; };
 		B62F62E25291D9AA7FAD969D480C94A1 /* MobilePlayer.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MobilePlayer.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		B700934D8B0D3B996663E41A07BECD16 /* ElementConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ElementConfig.swift; path = MobilePlayer/Config/ElementConfig.swift; sourceTree = "<group>"; };
+		B634D05DDC1CFCF2016405BE1A57E2F5 /* YoutubeParser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = YoutubeParser.swift; path = MobilePlayer/Parsers/YoutubeParser.swift; sourceTree = "<group>"; };
 		B78F583B615C220D1AA71077C6C7AA50 /* Pods-Video PlayerTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Video PlayerTests.debug.xcconfig"; sourceTree = "<group>"; };
-		B79EC3C0746B1462ADCAAE73990E0607 /* MobilePlayer.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = MobilePlayer.modulemap; sourceTree = "<group>"; };
-		B8A4C707049050FC80BF9CF852B997BD /* MLVolumeButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLVolumeButton.png; path = MobilePlayer/Resources/MLVolumeButton.png; sourceTree = "<group>"; };
+		B8A756EAB82F57E10B1CDA5AF14B783D /* UIImage+CocoaPods.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIImage+CocoaPods.swift"; path = "MobilePlayer/Extensions/UIImage+CocoaPods.swift"; sourceTree = "<group>"; };
 		B8E3DD9637DB936E0590575AD6D7244D /* Pods-Video PlayerUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Video PlayerUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		B903BF53D99C70B4AB57E33B6E86E6E9 /* Pods-Video PlayerUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Video PlayerUITests-umbrella.h"; sourceTree = "<group>"; };
-		BB07E5980E441DF445C696D70681606B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BDB09700ED099C12C854FA6A343AB7C3 /* FIRInstanceID.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRInstanceID.h; path = Headers/Public/FIRInstanceID.h; sourceTree = "<group>"; };
-		C0742D4B90F921068E5DA34ED92FB989 /* MLPauseButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLPauseButton.png; path = MobilePlayer/Resources/MLPauseButton.png; sourceTree = "<group>"; };
-		C0EE36DEEC5C4B04C9252EA80F47F363 /* Element.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Element.swift; path = MobilePlayer/Views/Element.swift; sourceTree = "<group>"; };
-		C1E509B58CFCB94AB95CAFDA804808AE /* MLCloseButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLCloseButton@2x.png"; path = "MobilePlayer/Resources/MLCloseButton@2x.png"; sourceTree = "<group>"; };
+		B9604DF4AC4EAE05623CA641FC6E47FF /* SwiftyJSON.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = Source/SwiftyJSON.swift; sourceTree = "<group>"; };
+		B97637F89BF0608546DD43F047BE753F /* IRTMProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IRTMProtocol.h; path = SDK/ios/CommLibiOS/include/IRTMProtocol.h; sourceTree = "<group>"; };
+		BD3061776BDBC3A078926403007328EA /* FilePermission.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FilePermission.h; path = SDK/ios/backendless/include/FilePermission.h; sourceTree = "<group>"; };
+		BE6208AECA46A2F5CB447D41E7559D39 /* MLShareButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLShareButton.png; path = MobilePlayer/Resources/MLShareButton.png; sourceTree = "<group>"; };
+		C0EAAAF6608DDAEF906E3E2506FA8D12 /* BackendlessCachePolicy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BackendlessCachePolicy.h; path = SDK/ios/backendless/include/BackendlessCachePolicy.h; sourceTree = "<group>"; };
+		C20F2CCC3015BE7EA65E2E39FB737CF9 /* BackendlessCacheProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BackendlessCacheProtocol.h; path = SDK/ios/backendless/include/BackendlessCacheProtocol.h; sourceTree = "<group>"; };
 		C30D2C57B8A3A863418BD9E3F2BA1B3B /* Pods-Video Player-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Video Player-acknowledgements.plist"; sourceTree = "<group>"; };
-		C4700435892F2F5637C91D2B00F99469 /* MLShareButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLShareButton@3x.png"; path = "MobilePlayer/Resources/MLShareButton@3x.png"; sourceTree = "<group>"; };
-		CCBBD223373735125848E2EB4D3428D5 /* MobilePlayer-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MobilePlayer-prefix.pch"; sourceTree = "<group>"; };
-		CD2F0EB193B1C16D86DB788287BA98D4 /* MLShareButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLShareButton.png; path = MobilePlayer/Resources/MLShareButton.png; sourceTree = "<group>"; };
-		CED49394DF1A3C61BD1716DA247DBD34 /* MLReduceVolume.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLReduceVolume.png; path = MobilePlayer/Resources/MLReduceVolume.png; sourceTree = "<group>"; };
+		C3CBD768673BFB7A51885B1BC2DB0C73 /* MessageStatus.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MessageStatus.h; path = SDK/ios/backendless/include/MessageStatus.h; sourceTree = "<group>"; };
+		C4988850A184DC75AB5E3BFBC189CBF5 /* LabelConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LabelConfig.swift; path = MobilePlayer/Config/LabelConfig.swift; sourceTree = "<group>"; };
+		C62881A6487E71DA90AF4F88705B81D8 /* IClientSharedObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = IClientSharedObject.h; path = SDK/ios/CommLibiOS/include/IClientSharedObject.h; sourceTree = "<group>"; };
+		C62BEA7CCA1E4C163A067800E0257822 /* FlashorbBinaryWriter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FlashorbBinaryWriter.h; path = SDK/ios/CommLibiOS/include/FlashorbBinaryWriter.h; sourceTree = "<group>"; };
+		C69BA3838FA25024DF8C67A72984660C /* ElementConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ElementConfig.swift; path = MobilePlayer/Config/ElementConfig.swift; sourceTree = "<group>"; };
+		CB8D3D6008BE73F49BBBE33AC6EFD425 /* ProtectedBackendlessGeoQuery.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ProtectedBackendlessGeoQuery.h; path = SDK/ios/backendless/include/ProtectedBackendlessGeoQuery.h; sourceTree = "<group>"; };
+		CC97D38C26215FAF14A86FCBC711A75A /* BECollectionView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BECollectionView.h; path = SDK/ios/backendless/include/BECollectionView.h; sourceTree = "<group>"; };
+		CCF36C360878BFA3F7D277BA1B716641 /* FIRInstanceID.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FIRInstanceID.h; path = Headers/Public/FIRInstanceID.h; sourceTree = "<group>"; };
+		CEB97D02CD40B860AC994876180D7F5A /* BackendlessSimpleQuery.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BackendlessSimpleQuery.h; path = SDK/ios/backendless/include/BackendlessSimpleQuery.h; sourceTree = "<group>"; };
 		CFE6D7FE402F8E5870B56541A402E547 /* Pods-Video PlayerTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Video PlayerTests-resources.sh"; sourceTree = "<group>"; };
+		D1B7F426F6F363D1E662C1B906B0B701 /* AbstractQuery.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AbstractQuery.h; path = SDK/ios/backendless/include/AbstractQuery.h; sourceTree = "<group>"; };
 		D1D97AEF47C77CC1DAC49D9ECFF3ADF8 /* Pods-Video Player.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Video Player.debug.xcconfig"; sourceTree = "<group>"; };
+		D243078D0E1253373C63CBFC34BD3E12 /* AbstractProperty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = AbstractProperty.h; path = SDK/ios/backendless/include/AbstractProperty.h; sourceTree = "<group>"; };
 		D2D38D95E20E34309F540B1FA0039BC0 /* Pods_Video_PlayerTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Video_PlayerTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D71C4AC75BCCF882A26153483CF27212 /* MLVolumeButton.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = MLVolumeButton.png; path = MobilePlayer/Resources/MLVolumeButton.png; sourceTree = "<group>"; };
 		D7A783D771447C47CEF219994FF06BEC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D7E95D376D7114CEB51A22B5E5A3FD32 /* MLPlayButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPlayButton@3x.png"; path = "MobilePlayer/Resources/MLPlayButton@3x.png"; sourceTree = "<group>"; };
-		D7FA051A0DBE6DD398010E99EE82CD71 /* MLVolumeButton@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLVolumeButton@2x.png"; path = "MobilePlayer/Resources/MLVolumeButton@2x.png"; sourceTree = "<group>"; };
-		DBEC94B80EEDF256A0D5F83C9A74978C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA9BADF8F82DCE0D37DB7CA8A4CB6451 /* Label.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Label.swift; path = MobilePlayer/Views/Label.swift; sourceTree = "<group>"; };
 		DC2AC58214E9F09A8E1A18A61819714B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		DC9BE96B95FA685C6D513E85F0E6DA01 /* BarConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BarConfig.swift; path = MobilePlayer/Config/BarConfig.swift; sourceTree = "<group>"; };
-		DEBE9CCB914531594C1C17065BA4B51E /* MLVolumeButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLVolumeButton@3x.png"; path = "MobilePlayer/Resources/MLVolumeButton@3x.png"; sourceTree = "<group>"; };
-		E2310E0F144EA99EC02E43E5F975DE1A /* GoogleNetworkingUtilities.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleNetworkingUtilities.framework; path = Frameworks/GoogleNetworkingUtilities.framework; sourceTree = "<group>"; };
-		E443951239F47388C3F86679E6200235 /* SwiftyJSON-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftyJSON-umbrella.h"; sourceTree = "<group>"; };
-		E5FCCF70B524ECF33CF4F4F9D8A6F315 /* WatermarkViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WatermarkViewController.swift; path = MobilePlayer/WatermarkViewController.swift; sourceTree = "<group>"; };
+		DE27EEF721681D246A4317C6E70BD8C2 /* GeoFence.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GeoFence.h; path = SDK/ios/backendless/include/GeoFence.h; sourceTree = "<group>"; };
+		DE9A0125517E312E5EE23A651E3A30EC /* MemoryTicker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MemoryTicker.h; path = SDK/ios/CommLibiOS/include/MemoryTicker.h; sourceTree = "<group>"; };
+		E01F2A429026E8250B1413D928AD294F /* CacheFactory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CacheFactory.h; path = SDK/ios/backendless/include/CacheFactory.h; sourceTree = "<group>"; };
+		E1A5C0C9E723DBBE1583E91308358DDE /* GoogleInterchangeUtilities.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleInterchangeUtilities.framework; path = Frameworks/GoogleInterchangeUtilities.framework; sourceTree = "<group>"; };
+		E3324E297DD1497C67FF79BF9495C51D /* LocationTracker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LocationTracker.h; path = SDK/ios/backendless/include/LocationTracker.h; sourceTree = "<group>"; };
 		E6F8F73971EDCBFDE37990AA8ABAC0DB /* Pods-Video PlayerUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-Video PlayerUITests.modulemap"; sourceTree = "<group>"; };
+		E754E7BFE186841E032EFF608114FEE8 /* MobilePlayerOverlayViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MobilePlayerOverlayViewController.swift; path = MobilePlayer/MobilePlayerOverlayViewController.swift; sourceTree = "<group>"; };
+		E802159EA66B9888783B7872F694B51E /* Backendless-Bridging-Header.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Backendless-Bridging-Header.h"; path = "SDK/ios/backendless/include/Backendless-Bridging-Header.h"; sourceTree = "<group>"; };
+		E89C6B9B62131033DDF1751283CD653B /* BESubscription.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BESubscription.h; path = SDK/ios/backendless/include/BESubscription.h; sourceTree = "<group>"; };
+		E92CA1AB25EF032159BD64858817191C /* ICacheService.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ICacheService.h; path = SDK/ios/backendless/include/ICacheService.h; sourceTree = "<group>"; };
+		EA69EF2B6418FB058187961921F656A4 /* PersistenceService.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = PersistenceService.h; path = SDK/ios/backendless/include/PersistenceService.h; sourceTree = "<group>"; };
 		ED2C36774401C2F5C76709C2C203A3E3 /* Pods-Video PlayerTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Video PlayerTests-dummy.m"; sourceTree = "<group>"; };
-		F00E932FBA22903F84790FCBBA357007 /* LabelConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LabelConfig.swift; path = MobilePlayer/Config/LabelConfig.swift; sourceTree = "<group>"; };
+		F01091BD40ADC255A6979C554A9C73F5 /* GeoCategory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GeoCategory.h; path = SDK/ios/backendless/include/GeoCategory.h; sourceTree = "<group>"; };
+		F13A520A8FCCBF6844F8149B474E1B83 /* ButtonConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ButtonConfig.swift; path = MobilePlayer/Config/ButtonConfig.swift; sourceTree = "<group>"; };
+		F152FECF6649468807FE22E623EBC7B5 /* Element.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Element.swift; path = MobilePlayer/Views/Element.swift; sourceTree = "<group>"; };
+		F2128E94378EB06E137B3C5AFF5CF2D0 /* DataStoreFactory.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DataStoreFactory.h; path = SDK/ios/backendless/include/DataStoreFactory.h; sourceTree = "<group>"; };
+		F56F199E5E8CAC07C6BEC99533146D93 /* FirebaseInstanceID.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FirebaseInstanceID.framework; path = Frameworks/FirebaseInstanceID.framework; sourceTree = "<group>"; };
 		F74C6CF0F2C8B149C92749F56EB55945 /* Pods_Video_Player.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Video_Player.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F89715B51D20989AEC27825CA2DB2DC6 /* MLPauseButton@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "MLPauseButton@3x.png"; path = "MobilePlayer/Resources/MLPauseButton@3x.png"; sourceTree = "<group>"; };
+		F8B4BC9E913E94E0BB4A0E94D498EC2F /* GoogleUtilities.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleUtilities.framework; path = Frameworks/GoogleUtilities.framework; sourceTree = "<group>"; };
+		F9080279D4B4677C8C84A841BFA00CF6 /* BEFileInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BEFileInfo.h; path = SDK/ios/backendless/include/BEFileInfo.h; sourceTree = "<group>"; };
+		FB156D1EB05B712B9D9CBF597F090E40 /* BackendlessEntity.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BackendlessEntity.h; path = SDK/ios/backendless/include/BackendlessEntity.h; sourceTree = "<group>"; };
+		FC24A5B6D25F6B82CDC89D0F79B6EAA7 /* GoogleSymbolUtilities.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleSymbolUtilities.framework; path = Frameworks/GoogleSymbolUtilities.framework; sourceTree = "<group>"; };
+		FC2E57B6B31D39CBEBF0764255F659AD /* DEBUG.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DEBUG.h; path = SDK/ios/CommLibiOS/include/DEBUG.h; sourceTree = "<group>"; };
+		FE021F2FF56745C04A69710E8082CC94 /* SliderConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SliderConfig.swift; path = MobilePlayer/Config/SliderConfig.swift; sourceTree = "<group>"; };
+		FEA5A36B55DD3DF5A7377A527A999809 /* MobilePlayer-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MobilePlayer-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -263,52 +342,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		036123BDD94F7350977FE4EDAB523A3C /* Frameworks */ = {
+		04D2C479084A91EC34115F07BFCD5FD5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				A6EA9A5578866A4A73777B7EF68512CA /* GoogleSymbolUtilities.framework */,
+				FC24A5B6D25F6B82CDC89D0F79B6EAA7 /* GoogleSymbolUtilities.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		06288AB66440401BB1532B446D8F282C /* SwiftyJSON */ = {
+		06BEE4E19C4AA29455A2B4F0E09AC932 /* Firebase */ = {
 			isa = PBXGroup;
 			children = (
-				6920E05A6F4DDDD074E4D41FEB8E6D0A /* SwiftyJSON.swift */,
-				506749C95872114ED253E4F2038EF7CB /* Support Files */,
+				D2247B0333AA26457BC1AE020EFC6C0C /* Analytics */,
 			);
-			path = SwiftyJSON;
-			sourceTree = "<group>";
-		};
-		09E21CE59C8240622D4F525249137FB7 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				A9258A10972EB3C8CADC677D1B229110 /* GoogleUtilities.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		0F5F25D202A181734E828E8B16A2E1F9 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				DBEC94B80EEDF256A0D5F83C9A74978C /* Info.plist */,
-				B79EC3C0746B1462ADCAAE73990E0607 /* MobilePlayer.modulemap */,
-				986677F70D3C60D502CDDAA8D16A254D /* MobilePlayer.xcconfig */,
-				AA7E4FE16169BF713616D51EBE37AE1A /* MobilePlayer-dummy.m */,
-				CCBBD223373735125848E2EB4D3428D5 /* MobilePlayer-prefix.pch */,
-				493CF6366F65C8DA3EC049D8FB866617 /* MobilePlayer-umbrella.h */,
-				B5D7E9287604EF606E3BD3D56B08DDE2 /* ResourceBundle-MobilePlayer-Info.plist */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/MobilePlayer";
-			sourceTree = "<group>";
-		};
-		0F961342935AD29BAD2A3445E65F61DC /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				67F0908378DC05680F114F2DD6139289 /* FirebaseStorage.framework */,
-			);
-			name = Frameworks;
+			path = Firebase;
 			sourceTree = "<group>";
 		};
 		122DA2E5084A4393C29BE363C764795C /* Frameworks */ = {
@@ -319,28 +366,26 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		1799CD927ACD163F3F0381F4B26785E1 /* Firebase */ = {
+		19FE6097DDEFF98F36F84366E0E03B48 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				67ACA1454864E7A24D0BE6D1B9DAE5EC /* Analytics */,
+				F8B4BC9E913E94E0BB4A0E94D498EC2F /* GoogleUtilities.framework */,
 			);
-			path = Firebase;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		1D560E2105D41C72A119384DEFE654F7 /* FirebaseStorage */ = {
+		24C9FA04CBBA0348D9C4A2F30FB57CF7 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				0F961342935AD29BAD2A3445E65F61DC /* Frameworks */,
+				A0AF3E41A26B8391A9D536327FD9F9FD /* Info.plist */,
+				4DE4529CE0C501AD4448EB3A796F8120 /* SwiftyJSON.modulemap */,
+				64FFA6E4A59966060A216180790ECE75 /* SwiftyJSON.xcconfig */,
+				438E9D44210A17D4064A074D23402F20 /* SwiftyJSON-dummy.m */,
+				64A4FB7E288973EEB4F49D9E53921E6F /* SwiftyJSON-prefix.pch */,
+				3A09D3F018E991E2624B3FD394FCA6D2 /* SwiftyJSON-umbrella.h */,
 			);
-			path = FirebaseStorage;
-			sourceTree = "<group>";
-		};
-		269E5E8E5CA3E90CD54FF20E6AA9DDB9 /* GoogleUtilities */ = {
-			isa = PBXGroup;
-			children = (
-				09E21CE59C8240622D4F525249137FB7 /* Frameworks */,
-			);
-			path = GoogleUtilities;
+			name = "Support Files";
+			path = "../Target Support Files/SwiftyJSON";
 			sourceTree = "<group>";
 		};
 		3A5FC67ED0A52CB03D165C96F2EA1979 /* Pods-Video PlayerUITests */ = {
@@ -361,12 +406,38 @@
 			path = "Target Support Files/Pods-Video PlayerUITests";
 			sourceTree = "<group>";
 		};
-		3DFED8991214B6C366E8465E08A04BF3 /* Frameworks */ = {
+		41972D0AE17D2AF07F513CA9BEEF8D99 /* MobilePlayer */ = {
 			isa = PBXGroup;
 			children = (
-				B1627AA5954389721233BC1528FAB0A5 /* FirebaseInstanceID.framework */,
+				028E4D43F865946A04361692A6B3E55C /* Bar.swift */,
+				4FF810BCF249CE55C1B7D0FC4BF95B4B /* BarConfig.swift */,
+				52882D0C9558D4758BF7D8A828207EED /* Button.swift */,
+				F13A520A8FCCBF6844F8149B474E1B83 /* ButtonConfig.swift */,
+				15593E042F9C2D95E7B9D19D3F587DC6 /* ClosureSupport.swift */,
+				F152FECF6649468807FE22E623EBC7B5 /* Element.swift */,
+				C69BA3838FA25024DF8C67A72984660C /* ElementConfig.swift */,
+				DA9BADF8F82DCE0D37DB7CA8A4CB6451 /* Label.swift */,
+				C4988850A184DC75AB5E3BFBC189CBF5 /* LabelConfig.swift */,
+				A9C5FAC357AF33249CAF78FDF382D7D9 /* MobilePlayerConfig.swift */,
+				6733ADA344A17BD01BF72A51E5E47B6D /* MobilePlayerControlsView.swift */,
+				5DAD9DEF48726207F022B23FB7E6D998 /* MobilePlayerNotification.swift */,
+				E754E7BFE186841E032EFF608114FEE8 /* MobilePlayerOverlayViewController.swift */,
+				02625CEC2B2903BF1E9BCFD59746F43D /* MobilePlayerViewController.swift */,
+				A07994BEFBF3A7C5717E9EC77FAC5584 /* Slider.swift */,
+				FE021F2FF56745C04A69710E8082CC94 /* SliderConfig.swift */,
+				2D36A71D9C3AF7EEC3E5A7A0D124ADC7 /* StateHelper.swift */,
+				17B44A72A95B7DE7BC93F46211D31E90 /* ToggleButton.swift */,
+				A9DAA1144A32238C7BA803FE4FC0CF36 /* ToggleButtonConfig.swift */,
+				57471C6C7EE9079402656B581DDE1357 /* UIColor+Hex.swift */,
+				B8A756EAB82F57E10B1CDA5AF14B783D /* UIImage+CocoaPods.swift */,
+				7E4CC3ABCFAB0B4879692C7B27D7E1CF /* VolumeView.swift */,
+				499D1798CFA7DCAD3F47A4DE6DD48EFA /* WatermarkConfig.swift */,
+				4DD81EAD5EC4D906F81E444E87819539 /* WatermarkViewController.swift */,
+				B634D05DDC1CFCF2016405BE1A57E2F5 /* YoutubeParser.swift */,
+				7B5FF1F84878399F5EC245930EEF53A5 /* Resources */,
+				85B5C0E2DEC923E8BBFB29B3DA4574A4 /* Support Files */,
 			);
-			name = Frameworks;
+			path = MobilePlayer;
 			sourceTree = "<group>";
 		};
 		454ECF71D0E5ECA8D2BA5381DA01FED7 /* Targets Support Files */ = {
@@ -379,26 +450,12 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		4ACCE45EE2BCA02C6A3BB40BBA690DD3 /* Frameworks */ = {
+		4E9EA9B0A28CAEBDFF1413E0517C674F /* FirebaseStorage */ = {
 			isa = PBXGroup;
 			children = (
-				E2310E0F144EA99EC02E43E5F975DE1A /* GoogleNetworkingUtilities.framework */,
+				75A1C2810E3204B9D7F7ED7EDAA9D29C /* Frameworks */,
 			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		506749C95872114ED253E4F2038EF7CB /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				BB07E5980E441DF445C696D70681606B /* Info.plist */,
-				620BBAA14E7C73D39A9362D7E9676FA4 /* SwiftyJSON.modulemap */,
-				3C4DB6DF3DBE4C85AF562A21EB2327CC /* SwiftyJSON.xcconfig */,
-				4673448A356E2FFC3B1AC926C4F0C3EA /* SwiftyJSON-dummy.m */,
-				605B9743F2AFD6A64FAABEDB8345DB3A /* SwiftyJSON-prefix.pch */,
-				E443951239F47388C3F86679E6200235 /* SwiftyJSON-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/SwiftyJSON";
+			path = FirebaseStorage;
 			sourceTree = "<group>";
 		};
 		51F3E149445E33794EACA4966204137A /* iOS */ = {
@@ -411,40 +468,20 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		61AC8841A38749B56702997C15CFF2FF /* Resources */ = {
+		58E2FD4CE3A39DED7E23029D446E3D11 /* FirebaseAnalytics */ = {
 			isa = PBXGroup;
 			children = (
-				45B87EBCB7F5EE9C95FBBF4448551C26 /* MLCloseButton.png */,
-				C1E509B58CFCB94AB95CAFDA804808AE /* MLCloseButton@2x.png */,
-				9866BD8464A08F15CCE66FA7065B9066 /* MLCloseButton@3x.png */,
-				08A21A11D6AC4641FAAF96AED9E02679 /* MLIncreaseVolume.png */,
-				B4D40F010B78C6E97DAFB4E501CCD7B9 /* MLIncreaseVolume@2x.png */,
-				B609CA400E89536D4122F00CD0B9579A /* MLIncreaseVolume@3x.png */,
-				C0742D4B90F921068E5DA34ED92FB989 /* MLPauseButton.png */,
-				95A6ADBCFCBFE628EA62BE990C887A34 /* MLPauseButton@2x.png */,
-				68D0E9278ED41DF458F98BB1B8B3758F /* MLPauseButton@3x.png */,
-				B625F016B56D826AA6070256B1AEA26A /* MLPlayButton.png */,
-				4E431D83B1C2170F664157B7F151AAED /* MLPlayButton@2x.png */,
-				D7E95D376D7114CEB51A22B5E5A3FD32 /* MLPlayButton@3x.png */,
-				CED49394DF1A3C61BD1716DA247DBD34 /* MLReduceVolume.png */,
-				68E7027EE83F8DED1F23EA6C5D53FB5B /* MLReduceVolume@2x.png */,
-				AAE24CB2B20BF94FF1F2C0AC2AEDCA33 /* MLReduceVolume@3x.png */,
-				CD2F0EB193B1C16D86DB788287BA98D4 /* MLShareButton.png */,
-				91195FB94A77247B829925D5DCB374E6 /* MLShareButton@2x.png */,
-				C4700435892F2F5637C91D2B00F99469 /* MLShareButton@3x.png */,
-				B8A4C707049050FC80BF9CF852B997BD /* MLVolumeButton.png */,
-				D7FA051A0DBE6DD398010E99EE82CD71 /* MLVolumeButton@2x.png */,
-				DEBE9CCB914531594C1C17065BA4B51E /* MLVolumeButton@3x.png */,
+				7F964DB59CBD9A33F61347546B0C3588 /* Frameworks */,
 			);
-			name = Resources;
+			path = FirebaseAnalytics;
 			sourceTree = "<group>";
 		};
-		67ACA1454864E7A24D0BE6D1B9DAE5EC /* Analytics */ = {
+		6749AF5560E05504B7800B5F74DFFFA5 /* GoogleNetworkingUtilities */ = {
 			isa = PBXGroup;
 			children = (
-				5B7455EBA0C19E457F7D31F971FBE39D /* Firebase.h */,
+				EABD46C289E717C28CCC51C82907F817 /* Frameworks */,
 			);
-			name = Analytics;
+			path = GoogleNetworkingUtilities;
 			sourceTree = "<group>";
 		};
 		70B7D6D00B502BEE09E7A3C059DF2623 /* Pods-Video PlayerTests */ = {
@@ -465,12 +502,48 @@
 			path = "Target Support Files/Pods-Video PlayerTests";
 			sourceTree = "<group>";
 		};
-		76DB68FF5BAE8BDB9A7A37A5F18516FF /* Frameworks */ = {
+		720C72EB2F526525202A5DC014EC4C8C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				36277B6BED0413D92D90B6728C4E23B2 /* FirebaseAnalytics.framework */,
+				F56F199E5E8CAC07C6BEC99533146D93 /* FirebaseInstanceID.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		75A1C2810E3204B9D7F7ED7EDAA9D29C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				528C71C460CC560B1E3028A264665614 /* FirebaseStorage.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7B5FF1F84878399F5EC245930EEF53A5 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				569E6605E9A35F19C512E4817296F295 /* MLCloseButton.png */,
+				B1566DEBE51470F0384F652F5975CD16 /* MLCloseButton@2x.png */,
+				3F9054BAECA3A3ECF527D0ADF30DF3EE /* MLCloseButton@3x.png */,
+				A0D799DEE798794DFD78CD1C0973487E /* MLIncreaseVolume.png */,
+				5A9AC6B91C5AF354D9314E29BE490A05 /* MLIncreaseVolume@2x.png */,
+				41C8118A5147EBB42427040E1262DF1F /* MLIncreaseVolume@3x.png */,
+				8F345EB750C03320CC280F9354A06543 /* MLPauseButton.png */,
+				4111C6AA8A47A32F112B14B02927325E /* MLPauseButton@2x.png */,
+				F89715B51D20989AEC27825CA2DB2DC6 /* MLPauseButton@3x.png */,
+				5560A267CB631587B7B4720DBAC42637 /* MLPlayButton.png */,
+				7B9B3EC5A114FA7A0082BE37891F934E /* MLPlayButton@2x.png */,
+				16CABE886F8128BA54693F94E5843E2C /* MLPlayButton@3x.png */,
+				4F0254C892761944266D54C2D88DEF08 /* MLReduceVolume.png */,
+				7AB9CE877D4142DB411F82B40A6D126B /* MLReduceVolume@2x.png */,
+				062827D3E7020B928695D5945792E405 /* MLReduceVolume@3x.png */,
+				BE6208AECA46A2F5CB447D41E7559D39 /* MLShareButton.png */,
+				9B820B0A3CB332B61B744CC47F025F19 /* MLShareButton@2x.png */,
+				215459B70D3F9B89B98CBAFE0233BBBE /* MLShareButton@3x.png */,
+				D71C4AC75BCCF882A26153483CF27212 /* MLVolumeButton.png */,
+				7EDA959220AE7907B7FDEECD5A3185E7 /* MLVolumeButton@2x.png */,
+				65FEFC73BF288ABCECABC60B7466BA55 /* MLVolumeButton@3x.png */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -478,44 +551,33 @@
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				122DA2E5084A4393C29BE363C764795C /* Frameworks */,
-				9698B41D8BD6F62259C6E14A117B8866 /* Pods */,
+				AE538CDF52EDA871B87BCAA34DBBB41A /* Pods */,
 				B0E70DC29760703C2173CAF966AB4BBA /* Products */,
 				454ECF71D0E5ECA8D2BA5381DA01FED7 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		7DEB274712874FA6B6BF0F78EF85820B /* MobilePlayer */ = {
+		7F964DB59CBD9A33F61347546B0C3588 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				5A2FBF1CF5D92C6CAFFC405CDBAB63C6 /* Bar.swift */,
-				DC9BE96B95FA685C6D513E85F0E6DA01 /* BarConfig.swift */,
-				7DAAF18C38FF7FC2454E0DB90E553458 /* Button.swift */,
-				4D69B9E7368E4A5A95D6E02365D8FDEF /* ButtonConfig.swift */,
-				675C455A4AF3FF0EED344D68A1167669 /* ClosureSupport.swift */,
-				C0EE36DEEC5C4B04C9252EA80F47F363 /* Element.swift */,
-				B700934D8B0D3B996663E41A07BECD16 /* ElementConfig.swift */,
-				81381746FF84F71436384090E10522F8 /* Label.swift */,
-				F00E932FBA22903F84790FCBBA357007 /* LabelConfig.swift */,
-				756880BBC36FB56DA2DB775C50A9817F /* MobilePlayerConfig.swift */,
-				A1892E9DC5C4256D18E641D0AA1FD481 /* MobilePlayerControlsView.swift */,
-				63E811AD2B90129D709902049B3D26E2 /* MobilePlayerNotification.swift */,
-				4E3B490A22CB69E9B3BE062430CEFF99 /* MobilePlayerOverlayViewController.swift */,
-				53663960E236F65AA599D264624CB4A8 /* MobilePlayerViewController.swift */,
-				1C6F2C743F7E9E8A58E6B93C3AA15CEF /* Slider.swift */,
-				7F40DF7F395120595D17559540908272 /* SliderConfig.swift */,
-				01F0B0098E7661E686051AB6BE600E19 /* StateHelper.swift */,
-				72E037DDA43877FEAAA5D296DE68515B /* ToggleButton.swift */,
-				1DA5CC70A4EBCE2EFAD5FD10F0A188C2 /* ToggleButtonConfig.swift */,
-				5522C1092F27F03198BE8E4D13FE7B36 /* UIColor+Hex.swift */,
-				B447B888DD82C98C9EAE4857F5B78E92 /* UIImage+CocoaPods.swift */,
-				80946E1DB48F7EDAFA4C386962345CFF /* VolumeView.swift */,
-				0E80092FEC1CB73FB6432C902474E33C /* WatermarkConfig.swift */,
-				E5FCCF70B524ECF33CF4F4F9D8A6F315 /* WatermarkViewController.swift */,
-				47FD18E341F0AC2B2C32EB691910D66D /* YoutubeParser.swift */,
-				61AC8841A38749B56702997C15CFF2FF /* Resources */,
-				0F5F25D202A181734E828E8B16A2E1F9 /* Support Files */,
+				5615ED76C6E311224B9084081EDECB2E /* FirebaseAnalytics.framework */,
 			);
-			path = MobilePlayer;
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		85B5C0E2DEC923E8BBFB29B3DA4574A4 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				6BB585C42C0F8B5755D2CB7F696C635F /* Info.plist */,
+				86E104EC6D06280F4064E9ADC0473424 /* MobilePlayer.modulemap */,
+				96083D13488B40FFE2D2BB943507866E /* MobilePlayer.xcconfig */,
+				4D5916B5C4C47146ADEAA77535E3B027 /* MobilePlayer-dummy.m */,
+				0673D3120F231FFA5D62CDCF7CF9E7E9 /* MobilePlayer-prefix.pch */,
+				FEA5A36B55DD3DF5A7377A527A999809 /* MobilePlayer-umbrella.h */,
+				7F73A4F1AEC02B806468CCA405373374 /* ResourceBundle-MobilePlayer-Info.plist */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/MobilePlayer";
 			sourceTree = "<group>";
 		};
 		8E3766E8E11720ADAFFA238E5E76BF13 /* Pods-Video Player */ = {
@@ -536,30 +598,31 @@
 			path = "Target Support Files/Pods-Video Player";
 			sourceTree = "<group>";
 		};
-		9698B41D8BD6F62259C6E14A117B8866 /* Pods */ = {
+		8ED3FAFD9CEF071991A0F2C79248B1FD /* SwiftyJSON */ = {
 			isa = PBXGroup;
 			children = (
-				1799CD927ACD163F3F0381F4B26785E1 /* Firebase */,
-				DD6031B38FC88B39F8B9CE3C3603EA7E /* FirebaseAnalytics */,
-				A292A1CA134929ADB79CD59903634F8A /* FirebaseInstanceID */,
-				1D560E2105D41C72A119384DEFE654F7 /* FirebaseStorage */,
-				F8829E9688A41DD5AC5C18EB8EEE44EA /* GoogleInterchangeUtilities */,
-				CB69F3D279E7C2015A744CA7F4FE4C89 /* GoogleNetworkingUtilities */,
-				D27C94B58B4BF4F96B58904A09F06FEC /* GoogleSymbolUtilities */,
-				269E5E8E5CA3E90CD54FF20E6AA9DDB9 /* GoogleUtilities */,
-				7DEB274712874FA6B6BF0F78EF85820B /* MobilePlayer */,
-				06288AB66440401BB1532B446D8F282C /* SwiftyJSON */,
+				B9604DF4AC4EAE05623CA641FC6E47FF /* SwiftyJSON.swift */,
+				24C9FA04CBBA0348D9C4A2F30FB57CF7 /* Support Files */,
 			);
-			name = Pods;
+			path = SwiftyJSON;
 			sourceTree = "<group>";
 		};
-		A292A1CA134929ADB79CD59903634F8A /* FirebaseInstanceID */ = {
+		AE538CDF52EDA871B87BCAA34DBBB41A /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				BDB09700ED099C12C854FA6A343AB7C3 /* FIRInstanceID.h */,
-				3DFED8991214B6C366E8465E08A04BF3 /* Frameworks */,
+				C160F9299680420E455ADD033663A478 /* Backendless */,
+				06BEE4E19C4AA29455A2B4F0E09AC932 /* Firebase */,
+				58E2FD4CE3A39DED7E23029D446E3D11 /* FirebaseAnalytics */,
+				B6716CD64D19C67F81001FD3117AC800 /* FirebaseInstanceID */,
+				4E9EA9B0A28CAEBDFF1413E0517C674F /* FirebaseStorage */,
+				E1335A4D9FD6A04644E614B679E42F4A /* GoogleInterchangeUtilities */,
+				6749AF5560E05504B7800B5F74DFFFA5 /* GoogleNetworkingUtilities */,
+				FD16586A070B87D3FBE3DE969C401ABE /* GoogleSymbolUtilities */,
+				D18B6A27643A69E9FEFB70D2D86C79CD /* GoogleUtilities */,
+				41972D0AE17D2AF07F513CA9BEEF8D99 /* MobilePlayer */,
+				8ED3FAFD9CEF071991A0F2C79248B1FD /* SwiftyJSON */,
 			);
-			path = FirebaseInstanceID;
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		B0E70DC29760703C2173CAF966AB4BBA /* Products */ = {
@@ -575,44 +638,147 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B5D7886DAACD28609B204CFD531F5801 /* Frameworks */ = {
+		B6716CD64D19C67F81001FD3117AC800 /* FirebaseInstanceID */ = {
 			isa = PBXGroup;
 			children = (
-				050B6D9AAF9C3DB004BE62E3BAE067EF /* GoogleInterchangeUtilities.framework */,
+				CCF36C360878BFA3F7D277BA1B716641 /* FIRInstanceID.h */,
+				720C72EB2F526525202A5DC014EC4C8C /* Frameworks */,
+			);
+			path = FirebaseInstanceID;
+			sourceTree = "<group>";
+		};
+		C160F9299680420E455ADD033663A478 /* Backendless */ = {
+			isa = PBXGroup;
+			children = (
+				D243078D0E1253373C63CBFC34BD3E12 /* AbstractProperty.h */,
+				D1B7F426F6F363D1E662C1B906B0B701 /* AbstractQuery.h */,
+				3887DDE303FD023FD22B230D68AF8A23 /* AMFSerializer.h */,
+				42C7FECA0BB61976BC067A2BB598A98E /* AtomicCounters.h */,
+				739F6173FF052AFB2CC67C55D9D393C1 /* AtomicCountersFactory.h */,
+				8F6F5BED4C7B5E95B878A960BA4AA086 /* Backendless.h */,
+				E802159EA66B9888783B7872F694B51E /* Backendless-Bridging-Header.h */,
+				8048F9C948C22FAC025CC070550AB227 /* Backendless-With-Media-Bridging-Header.h */,
+				A84133342B5BE8AA7A3D8630D420AFB8 /* BackendlessBeacon.h */,
+				C0EAAAF6608DDAEF906E3E2506FA8D12 /* BackendlessCachePolicy.h */,
+				C20F2CCC3015BE7EA65E2E39FB737CF9 /* BackendlessCacheProtocol.h */,
+				173F02317402BA5D9687169918A997EC /* BackendlessCollection.h */,
+				6028FD73D411716F9C0228A282644C4C /* BackendlessDataQuery.h */,
+				FB156D1EB05B712B9D9CBF597F090E40 /* BackendlessEntity.h */,
+				07BAB7EA3572476A087C45B44518DA33 /* BackendlessFile.h */,
+				08141E2BBF996AF7B006D7E4D81EF466 /* BackendlessGeoQuery.h */,
+				CEB97D02CD40B860AC994876180D7F5A /* BackendlessSimpleQuery.h */,
+				7FCF574DCAA4078430DEDA31B989DA14 /* BackendlessUser.h */,
+				95D7C1AF7CE0ECB8BC6467CC88B53158 /* BEAnnotation.h */,
+				CC97D38C26215FAF14A86FCBC711A75A /* BECollectionView.h */,
+				F9080279D4B4677C8C84A841BFA00CF6 /* BEFileInfo.h */,
+				9DC4917EE222BF23A9E97B5E7D3753BF /* BEMapView.h */,
+				E89C6B9B62131033DDF1751283CD653B /* BESubscription.h */,
+				6D29468C81EC5DD2BA7BE27DBF4AC4ED /* BETableView.h */,
+				1131B318CEE68C4DF98F379AA505DC5B /* BinaryCodec.h */,
+				04034F1758EDBE8A6DED708DC15EAD28 /* BinaryStream.h */,
+				14CF3A95ED0955C5A77F04FCA0A61C44 /* BodyParts.h */,
+				E01F2A429026E8250B1413D928AD294F /* CacheFactory.h */,
+				75E791DA66D8A600BCCFB4325544943D /* CacheService.h */,
+				071F5D54D549570CDDD9ED2BD817209C /* CustomService.h */,
+				34D72F41CA5D86BD4052A913A541D377 /* DataPermission.h */,
+				F2128E94378EB06E137B3C5AFF5CF2D0 /* DataStoreFactory.h */,
+				FC2E57B6B31D39CBEBF0764255F659AD /* DEBUG.h */,
+				93E3C22AFBF148B2E78F23B21C3FFF3B /* DeliveryOptions.h */,
+				66920E8C2CB909CE77322DF74BD91F80 /* DeviceRegistration.h */,
+				3F0552F4B9279ED607939238973DAF05 /* Events.h */,
+				BD3061776BDBC3A078926403007328EA /* FilePermission.h */,
+				8F59396143F88F8455701D90FA9ECF96 /* FileService.h */,
+				6B2A0720B9D7B0B8C99AB35D4253A3A6 /* FlashorbBinaryReader.h */,
+				C62BEA7CCA1E4C163A067800E0257822 /* FlashorbBinaryWriter.h */,
+				F01091BD40ADC255A6979C554A9C73F5 /* GeoCategory.h */,
+				8A28508349D62C136B6EF5C0BAA093A2 /* GeoCluster.h */,
+				DE27EEF721681D246A4317C6E70BD8C2 /* GeoFence.h */,
+				800D148366158B08245A9F16A509A249 /* GeoPoint.h */,
+				0362DA9C408BC8B65BBF338079E476CE /* GeoService.h */,
+				A4BDE1A38EE27946218A90C3DF68ABED /* HashMap.h */,
+				2B5E775FE155D13C3BAB241631B16D03 /* IAtomicCounters.h */,
+				7DFC6ABC125BDA6B86E9CF2ED6BAB254 /* IAttributeStore.h */,
+				E92CA1AB25EF032159BD64858817191C /* ICacheService.h */,
+				9D108C46148914650E2C8EA5EC20405F /* ICallback.h */,
+				C62881A6487E71DA90AF4F88705B81D8 /* IClientSharedObject.h */,
+				67257655BA25CCEDA22CA904D47C5BA8 /* IClientSharedObjectDelegate.h */,
+				5AB911690D8521379857C2B0313C4F39 /* IDataStore.h */,
+				05085817D8B2BA3A8076E47A668E727A /* IPendingServiceCallback.h */,
+				964A19891F39DBA6AB16D84BF00DB521 /* IPersistable.h */,
+				53C2ED1ADE96292E08B3AC008891CB14 /* IPresenceListener.h */,
+				B97637F89BF0608546DD43F047BE753F /* IRTMProtocol.h */,
+				44AD04DAFCDB0BE584FB380B9419E058 /* IServiceCall.h */,
+				7235D82CD0C3CB41D08E67AD6F2F30A4 /* ISharedObjectListener.h */,
+				E3324E297DD1497C67FF79BF9495C51D /* LocationTracker.h */,
+				503A33CEAE279552A30B3E131125F8C3 /* Logger.h */,
+				2B4DDBFE47F86E00E388F2BA082C7446 /* Logging.h */,
+				DE9A0125517E312E5EE23A651E3A30EC /* MemoryTicker.h */,
+				090C8500B3FB506270BE6D488CA20A43 /* Message.h */,
+				C3CBD768673BFB7A51885B1BC2DB0C73 /* MessageStatus.h */,
+				5B7286C28367677BC05BBFA519A542E6 /* MessagingService.h */,
+				8CAB133AF598C647B466005CD48BFD7A /* ObjectProperty.h */,
+				EA69EF2B6418FB058187961921F656A4 /* PersistenceService.h */,
+				B2C2E14D06567AE1E94C7FF8BA61B479 /* Presence.h */,
+				CB8D3D6008BE73F49BBBE33AC6EFD425 /* ProtectedBackendlessGeoQuery.h */,
+				814528E5DD3BE3B7295936D2DD49BDD7 /* PublishOptions.h */,
+				AF75431E5FC5867578E6B111318897B0 /* QueryOptions.h */,
+				80FB2F9C85D410AAB98F71FE77F64647 /* Responder.h */,
+				A7500C6F1989C0FDC078005256AE692B /* RTMPClient.h */,
+				1514E7DD59115EFF8EA4DE1651F4DABF /* SubscriptionOptions.h */,
+				96ABF70BFB5ECE2C1C1A3569213ACDD0 /* Types.h */,
+				22090A4F9FEA36DF643EBDA914A70AEB /* UserProperty.h */,
+				5CE6247003848F30D34982AB6B6CC386 /* UserService.h */,
+				4A1CE2D96D18B28447EA852F52FFD8D9 /* WeborbClient.h */,
+			);
+			path = Backendless;
+			sourceTree = "<group>";
+		};
+		D1141B26BC6C2D4A028FBFE0C65338DF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E1A5C0C9E723DBBE1583E91308358DDE /* GoogleInterchangeUtilities.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		CB69F3D279E7C2015A744CA7F4FE4C89 /* GoogleNetworkingUtilities */ = {
+		D18B6A27643A69E9FEFB70D2D86C79CD /* GoogleUtilities */ = {
 			isa = PBXGroup;
 			children = (
-				4ACCE45EE2BCA02C6A3BB40BBA690DD3 /* Frameworks */,
+				19FE6097DDEFF98F36F84366E0E03B48 /* Frameworks */,
 			);
-			path = GoogleNetworkingUtilities;
+			path = GoogleUtilities;
 			sourceTree = "<group>";
 		};
-		D27C94B58B4BF4F96B58904A09F06FEC /* GoogleSymbolUtilities */ = {
+		D2247B0333AA26457BC1AE020EFC6C0C /* Analytics */ = {
 			isa = PBXGroup;
 			children = (
-				036123BDD94F7350977FE4EDAB523A3C /* Frameworks */,
+				684CD53017645E54D212F8DB6E645836 /* Firebase.h */,
 			);
-			path = GoogleSymbolUtilities;
+			name = Analytics;
 			sourceTree = "<group>";
 		};
-		DD6031B38FC88B39F8B9CE3C3603EA7E /* FirebaseAnalytics */ = {
+		E1335A4D9FD6A04644E614B679E42F4A /* GoogleInterchangeUtilities */ = {
 			isa = PBXGroup;
 			children = (
-				76DB68FF5BAE8BDB9A7A37A5F18516FF /* Frameworks */,
-			);
-			path = FirebaseAnalytics;
-			sourceTree = "<group>";
-		};
-		F8829E9688A41DD5AC5C18EB8EEE44EA /* GoogleInterchangeUtilities */ = {
-			isa = PBXGroup;
-			children = (
-				B5D7886DAACD28609B204CFD531F5801 /* Frameworks */,
+				D1141B26BC6C2D4A028FBFE0C65338DF /* Frameworks */,
 			);
 			path = GoogleInterchangeUtilities;
+			sourceTree = "<group>";
+		};
+		EABD46C289E717C28CCC51C82907F817 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				376782D91DF84A5FB953BCA064E89DDB /* GoogleNetworkingUtilities.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FD16586A070B87D3FBE3DE969C401ABE /* GoogleSymbolUtilities */ = {
+			isa = PBXGroup;
+			children = (
+				04D2C479084A91EC34115F07BFCD5FD5 /* Frameworks */,
+			);
+			path = GoogleSymbolUtilities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -937,7 +1103,7 @@
 /* Begin XCBuildConfiguration section */
 		07D7737D50CFB845260D541BF9572F19 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3C4DB6DF3DBE4C85AF562A21EB2327CC /* SwiftyJSON.xcconfig */;
+			baseConfigurationReference = 64FFA6E4A59966060A216180790ECE75 /* SwiftyJSON.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -1000,7 +1166,7 @@
 		};
 		22F130A806BD7DBD1FCECD0BF857CFDD /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 986677F70D3C60D502CDDAA8D16A254D /* MobilePlayer.xcconfig */;
+			baseConfigurationReference = 96083D13488B40FFE2D2BB943507866E /* MobilePlayer.xcconfig */;
 			buildSettings = {
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/MobilePlayer";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -1017,7 +1183,7 @@
 		};
 		28B7EFD83AE0F1C65EEF81C2C93B160A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 986677F70D3C60D502CDDAA8D16A254D /* MobilePlayer.xcconfig */;
+			baseConfigurationReference = 96083D13488B40FFE2D2BB943507866E /* MobilePlayer.xcconfig */;
 			buildSettings = {
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/MobilePlayer";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -1139,7 +1305,7 @@
 		};
 		5638460784F7FA72C66CC9A6EDD80A68 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 986677F70D3C60D502CDDAA8D16A254D /* MobilePlayer.xcconfig */;
+			baseConfigurationReference = 96083D13488B40FFE2D2BB943507866E /* MobilePlayer.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -1210,7 +1376,7 @@
 		};
 		932A064F28085CF71524666A95456E4F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3C4DB6DF3DBE4C85AF562A21EB2327CC /* SwiftyJSON.xcconfig */;
+			baseConfigurationReference = 64FFA6E4A59966060A216180790ECE75 /* SwiftyJSON.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -1305,7 +1471,7 @@
 		};
 		ADCD1B93766915C2EAE218F36D12C702 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 986677F70D3C60D502CDDAA8D16A254D /* MobilePlayer.xcconfig */;
+			baseConfigurationReference = 96083D13488B40FFE2D2BB943507866E /* MobilePlayer.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;

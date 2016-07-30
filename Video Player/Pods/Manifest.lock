@@ -1,4 +1,5 @@
 PODS:
+  - Backendless (3.0.30)
   - Firebase (3.3.0):
     - Firebase/Core (= 3.3.0)
   - Firebase/Analytics (3.3.0):
@@ -28,12 +29,14 @@ PODS:
   - SwiftyJSON (2.3.2)
 
 DEPENDENCIES:
+  - Backendless
   - Firebase (>= 2.5.1)
   - Firebase/Storage
   - MobilePlayer
   - SwiftyJSON
 
 SPEC CHECKSUMS:
+  Backendless: 0fed76c39e231e2d7e8fc30fbe872dcca5f2ab4a
   Firebase: 6250071f0e2440a5c4c67b8cb6b868f868237ac3
   FirebaseAnalytics: 0fd6532cb2c3d03cd5cf26ad295ccb091efd3104
   FirebaseInstanceID: a9d923f3d0b6fbf9fac89310860357aaadc34be5
@@ -45,6 +48,6 @@ SPEC CHECKSUMS:
   MobilePlayer: 2fdc07a564fa89da65ff660f8fdcf06ab75f775d
   SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
 
-PODFILE CHECKSUM: 3f1b8586226479c9f88d01103b08bbbd77a2b1c9
+PODFILE CHECKSUM: aca45e85db8578abeabbcedb5c00055cc240e8b1
 
 COCOAPODS: 1.0.1

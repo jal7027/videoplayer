@@ -9,6 +9,7 @@ target 'Video Player' do
   pod 'Firebase', '>= 2.5.1'
   pod 'SwiftyJSON' 
   pod 'Firebase/Storage'
+  pod 'Backendless'
 
  # Pods for Video Player
 
