@@ -1,0 +1,22 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Video Player' do
+  # Comment this line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  pod "MobilePlayer"
+
+  # Pods for Video Player
+
+  target 'Video PlayerTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'Video PlayerUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
